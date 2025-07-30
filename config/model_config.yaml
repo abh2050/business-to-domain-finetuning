@@ -1,0 +1,94 @@
+# Model Configuration for Domain Name Suggestion LLM
+
+# Base Model Configuration
+base_model:
+  name: "gpt2"  # Using GPT-2 for better compatibility with safetensors
+  max_length: 512
+  temperature: 0.7
+  top_p: 0.9
+  top_k: 50
+  do_sample: true
+  pad_token_id: null  # Will be set automatically
+  
+# Fine-tuning Configuration
+fine_tuning:
+  # LoRA Configuration (Recommended for limited compute)
+  lora:
+    r: 16
+    lora_alpha: 32
+    lora_dropout: 0.1
+    target_modules: ["c_attn", "c_proj"]  # GPT-2 attention modules
+    bias: "none"
+    task_type: "CAUSAL_LM"
+  
+  # Training Arguments
+  training:
+    output_dir: "./models/checkpoints"
+    overwrite_output_dir: true
+    num_train_epochs: 3
+    per_device_train_batch_size: 4
+    per_device_eval_batch_size: 4
+    gradient_accumulation_steps: 4
+    learning_rate: 5e-4
+    weight_decay: 0.01
+    logging_steps: 10
+    eval_steps: 100
+    save_steps: 500
+    evaluation_strategy: "steps"
+    load_best_model_at_end: true
+    metric_for_best_model: "eval_loss"
+    greater_is_better: false
+    warmup_steps: 100
+    fp16: true  # Use mixed precision training
+    dataloader_num_workers: 4
+    remove_unused_columns: false
+    report_to: ["wandb", "tensorboard"]
+    
+# Data Configuration
+data:
+  max_input_length: 256
+  max_target_length: 128
+  train_test_split: 0.8
+  validation_split: 0.1
+  
+# Safety Configuration
+safety:
+  inappropriate_keywords:
+    - "adult"
+    - "porn"
+    - "nude"
+    - "sex"
+    - "explicit"
+    - "gambling"
+    - "casino"
+    - "drugs"
+    - "violence"
+    - "hate"
+    - "racist"
+    - "illegal"
+  
+  filter_threshold: 0.5  # Confidence threshold for content filtering
+  
+# Generation Configuration
+generation:
+  max_new_tokens: 64
+  num_return_sequences: 5
+  do_sample: true
+  temperature: 0.8
+  top_p: 0.9
+  repetition_penalty: 1.1
+  length_penalty: 1.0
+  
+# Model Versioning
+versioning:
+  experiment_name: "domain_name_llm"
+  model_registry: "./models/registry"
+  checkpoint_format: "pytorch"
+  track_metrics: true
+  
+# Hardware Configuration
+hardware:
+  device: "auto"  # Will auto-detect GPU/CPU
+  mixed_precision: "fp16"
+  gradient_checkpointing: true
+  use_flash_attention: false  # Set to true if supported

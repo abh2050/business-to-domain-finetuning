@@ -1,0 +1,26 @@
+[
+  {
+    "business_description": "Modern coffee shop with organic beans",
+    "domain": "organicbrews.com"
+  },
+  {
+    "business_description": "Tech startup developing AI solutions",
+    "domain": "aitech.com"
+  },
+  {
+    "business_description": "Boutique fitness studio",
+    "domain": "fitboutique.com"
+  },
+  {
+    "business_description": "Artisan bakery specializing in pastries",
+    "domain": "artisanbakes.com"
+  },
+  {
+    "business_description": "Digital marketing agency",
+    "domain": "digitalreach.com"
+  },
+  {
+    "business_description": "Sustainable fashion brand",
+    "domain": "greenfashion.com"
+  }
+]

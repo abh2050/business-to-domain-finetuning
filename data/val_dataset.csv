@@ -1,0 +1,1894 @@
+id,business_description,domain_suggestions,business_type,complexity,is_edge_case,num_suggestions,keywords,city,instruction_format,edge_case_category
+17,corporate catering in business district,"['partyworks.co', 'districtcatering.com', 'cateringfoodevent.net', 'partybusiness.net', 'pluscorporate.net']",catering,medium,False,5,"['corporate', 'catering', 'business', 'district']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: corporate catering in business district
+
+Domain suggestions:
+- partyworks.co
+- districtcatering.com
+- cateringfoodevent.net
+- partybusiness.net
+- pluscorporate.net",
+18,convenient bookstore offering independent services in the suburban area of Washington DC,"['washingtonwashingtondc.net', 'bookstoreconvenient.net', 'bookstoreplus.com', 'literaturebookstore.com', 'suburbanofferingbookstore.com']",bookstore,complex,False,5,"['convenient', 'bookstore', 'offering', 'independent', 'services', 'suburban', 'washington']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: convenient bookstore offering independent services in the suburban area of Washington DC
+
+Domain suggestions:
+- washingtonwashingtondc.net
+- bookstoreconvenient.net
+- bookstoreplus.com
+- literaturebookstore.com
+- suburbanofferingbookstore.com",
+edge_0,office,"['office.com', 'officepro.com', 'bestoffice.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: office
+
+Domain suggestions:
+- office.com
+- officepro.com
+- bestoffice.com",minimal_descriptions
+85,local auto repair offering transmission services,"['autofy.com', 'offeringtransmission.net', 'transmissionservice.com']",auto_repair,medium,False,3,"['local', 'auto', 'repair', 'offering', 'transmission', 'services']",Nashville,"Generate domain name suggestions for the following business:
+
+Business: local auto repair offering transmission services
+
+Domain suggestions:
+- autofy.com
+- offeringtransmission.net
+- transmissionservice.com",
+40,residential cleaning service in Jacksonville,"['jacksonvillefresh.com', 'freshcleaning.com', 'jacksonvilleservice.org', 'servicefreshresidential.com', 'cleaningjacksonvillefresh.com', 'cleaningservicepro.net', 'cleaningserviceclean.com']",cleaning_service,medium,False,7,"['residential', 'cleaning', 'service', 'jacksonville']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: residential cleaning service in Jacksonville
+
+Domain suggestions:
+- jacksonvillefresh.com
+- freshcleaning.com
+- jacksonvilleservice.org
+- servicefreshresidential.com
+- cleaningjacksonvillefresh.com
+- cleaningservicepro.net
+- cleaningserviceclean.com",
+3,landscaping,"['garden.com', 'garden79.com', 'bestlandscaping.com']",landscaping,simple,False,3,['landscaping'],,"Generate domain name suggestions for the following business:
+
+Business: landscaping
+
+Domain suggestions:
+- garden.com
+- garden79.com
+- bestlandscaping.com",
+edge_9,law firm specializing in transactional law,"['law.com', 'lawpro.com', 'bestlaw.com', 'firm.com', 'firmpro.com']",law_firm,edge_case,True,5,,,"Generate domain name suggestions for the following business:
+
+Business: law firm specializing in transactional law
+
+Domain suggestions:
+- law.com
+- lawpro.com
+- bestlaw.com
+- firm.com
+- firmpro.com",industry_jargon
+127,small animal veterinary clinic in suburban,"['groupvet.com', 'sanjoseclin.org', 'suburbananimalveterinary.com', 'veterinaryclinicsolutions.com', 'small.co', 'clinic.com', 'quickcare.io']",veterinary_clinic,medium,False,7,"['small', 'animal', 'veterinary', 'clinic', 'suburban']",San Jose,"Generate domain name suggestions for the following business:
+
+Business: small animal veterinary clinic in suburban
+
+Domain suggestions:
+- groupvet.com
+- sanjoseclin.org
+- suburbananimalveterinary.com
+- veterinaryclinicsolutions.com
+- small.co
+- clinic.com
+- quickcare.io",
+132,cleaning service,"['cleanfresh.com', 'cleanio.com', 'cl3a.co', 'servicefresh.net', 'servicecleancleaning.com', 'placecleaning.net']",cleaning_service,simple,False,6,"['cleaning', 'service']",,"Generate domain name suggestions for the following business:
+
+Business: cleaning service
+
+Domain suggestions:
+- cleanfresh.com
+- cleanio.com
+- cl3a.co
+- servicefresh.net
+- servicecleancleaning.com
+- placecleaning.net",
+108,photography art gallery in Austin,"['creativeaustin.net', '247photography.com', 'gallerycreative.com', 'artgallerylab.com', 'artsolutions.co']",art_gallery,medium,False,5,"['photography', 'art', 'gallery', 'austin']",Austin,"Generate domain name suggestions for the following business:
+
+Business: photography art gallery in Austin
+
+Domain suggestions:
+- creativeaustin.net
+- 247photography.com
+- gallerycreative.com
+- artgallerylab.com
+- artsolutions.co",
+91,residential landscaping in Chicago,"['solutionslandscape.com', 'outdoormy.com', '0ut.com', 'chi.com', 'landscapelandscaping.com', 'outdoorgreengarden.com', 'greenchicago.net']",landscaping,medium,False,7,"['residential', 'landscaping', 'chicago']",Chicago,"Generate domain name suggestions for the following business:
+
+Business: residential landscaping in Chicago
+
+Domain suggestions:
+- solutionslandscape.com
+- outdoormy.com
+- 0ut.com
+- chi.com
+- landscapelandscaping.com
+- outdoorgreengarden.com
+- greenchicago.net",
+29,local fitness center offering martial arts services,"['topcent.com', 'active247.com', 'artsmartial.com']",fitness_center,medium,False,3,"['local', 'fitness', 'center', 'offering', 'martial', 'arts', 'services']",San Francisco,"Generate domain name suggestions for the following business:
+
+Business: local fitness center offering martial arts services
+
+Domain suggestions:
+- topcent.com
+- active247.com
+- artsmartial.com",
+edge_28,company,"['company.com', 'companypro.com', 'bestcompany.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: company
+
+Domain suggestions:
+- company.com
+- companypro.com
+- bestcompany.com",minimal_descriptions
+20,landscaping specializing in design,"['outd.com', 'outdoorlandscaping.com', 'specializingphoenix.com']",landscaping,medium,False,3,"['landscaping', 'specializing', 'design']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: landscaping specializing in design
+
+Domain suggestions:
+- outd.com
+- outdoorlandscaping.com
+- specializingphoenix.com",
+100,local law firm offering corporate services,"['lawfirmzone.net', 'advo.net', 'corporateadvocate.com', 'spotadvocate.com', 'counseladvocate.com']",law_firm,medium,False,5,"['local', 'law', 'firm', 'offering', 'corporate', 'services']",Indianapolis,"Generate domain name suggestions for the following business:
+
+Business: local law firm offering corporate services
+
+Domain suggestions:
+- lawfirmzone.net
+- advo.net
+- corporateadvocate.com
+- spotadvocate.com
+- counseladvocate.com",
+edge_7,clinic,"['clinic.com', 'clinicpro.com', 'bestclinic.com']",healthcare_clinic,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: clinic
+
+Domain suggestions:
+- clinic.com
+- clinicpro.com
+- bestclinic.com",minimal_descriptions
+edge_6,clinic,"['clinic.com', 'clinicpro.com', 'bestclinic.com']",healthcare_clinic,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: clinic
+
+Domain suggestions:
+- clinic.com
+- clinicpro.com
+- bestclinic.com",minimal_descriptions
+37,"reliable foreign cars auto repair located in hillside, Jacksonville, dedicated to meeting all your auto repair needs","['repair.com', 'carsneeds.com', 'foreighub.co', 'autorepairpro.com', 'jacksonvillededicated.com', 'hillsidededicatedcar.net', 'carscarneeds.com']",auto_repair,complex,False,7,"['reliable', 'foreign', 'cars', 'auto', 'repair', 'hillside', 'jacksonville', 'dedicated', 'meeting', 'auto', 'repair', 'needs']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: reliable foreign cars auto repair located in hillside, Jacksonville, dedicated to meeting all your auto repair needs
+
+Domain suggestions:
+- repair.com
+- carsneeds.com
+- foreighub.co
+- autorepairpro.com
+- jacksonvillededicated.com
+- hillsidededicatedcar.net
+- carscarneeds.com",
+56,restaurant specializing in fast food,"['specializingdining.com', 'speci76.com', 'cuisinetaste.com', 'elitekitche.co', 'fastflavorspecializing.net']",restaurant,medium,False,5,"['restaurant', 'specializing', 'fast', 'food']",Chicago,"Generate domain name suggestions for the following business:
+
+Business: restaurant specializing in fast food
+
+Domain suggestions:
+- specializingdining.com
+- speci76.com
+- cuisinetaste.com
+- elitekitche.co
+- fastflavorspecializing.net",
+53,photography art gallery in waterfront,"['newyorkart.org', 'exhspot.com', 'galleryartgallery.org', 'creativeeasy.net']",art_gallery,medium,False,4,"['photography', 'art', 'gallery', 'waterfront']",New York,"Generate domain name suggestions for the following business:
+
+Business: photography art gallery in waterfront
+
+Domain suggestions:
+- newyorkart.org
+- exhspot.com
+- galleryartgallery.org
+- creativeeasy.net",
+15,local veterinary clinic offering exotic pets services,"['veterinaryclinicexpert.com', 'careanimal.com', 'petsanimallocal.com', 'careoffering.com', 'vetexoticpets.net', 'offeringvetveterinary.net', 'localcareservices.com']",veterinary_clinic,medium,False,7,"['local', 'veterinary', 'clinic', 'offering', 'exotic', 'pets', 'services']",San Diego,"Generate domain name suggestions for the following business:
+
+Business: local veterinary clinic offering exotic pets services
+
+Domain suggestions:
+- veterinaryclinicexpert.com
+- careanimal.com
+- petsanimallocal.com
+- careoffering.com
+- vetexoticpets.net
+- offeringvetveterinary.net
+- localcareservices.com",
+125,friendly art gallery offering photography services in the financial district area of Denver,"['offeringservices.com', 'cre.net', 'topphot.com', 'artgalleryexpert.net']",art_gallery,complex,False,4,"['friendly', 'art', 'gallery', 'offering', 'photography', 'services', 'financial', 'district', 'denver']",Denver,"Generate domain name suggestions for the following business:
+
+Business: friendly art gallery offering photography services in the financial district area of Denver
+
+Domain suggestions:
+- offeringservices.com
+- cre.net
+- topphot.com
+- artgalleryexpert.net",
+111,catering,"['cat49.com', 'eventpartyfood.net', 'cateringexpert.net', 'cateringfood.com', 'cateringeventparty.com', 'cateringelite.com']",catering,simple,False,6,['catering'],,"Generate domain name suggestions for the following business:
+
+Business: catering
+
+Domain suggestions:
+- cat49.com
+- eventpartyfood.net
+- cateringexpert.net
+- cateringfood.com
+- cateringeventparty.com
+- cateringelite.com",
+65,"We are a award-winning photography studio in Columbus specializing in portrait, serving the Columbus area for over 24 years","['studio50.io', 'photographystudiowinning.com', 'memorybest.com', 'columbusmemory.net', 'photographystudioworks.com', 'specializingcapture.com', 'creativeserving.net']",photography_studio,complex,False,7,"['award', 'winning', 'photography', 'studio', 'columbus', 'specializing', 'portrait', 'serving', 'columbus']",Columbus,"Generate domain name suggestions for the following business:
+
+Business: We are a award-winning photography studio in Columbus specializing in portrait, serving the Columbus area for over 24 years
+
+Domain suggestions:
+- studio50.io
+- photographystudiowinning.com
+- memorybest.com
+- columbusmemory.net
+- photographystudioworks.com
+- specializingcapture.com
+- creativeserving.net",
+68,local art gallery offering local artists services,"['servicesgallery.com', 'offeringexhibit.com', 'exhibitchicago.com', 'l0cal.com']",art_gallery,medium,False,4,"['local', 'art', 'gallery', 'offering', 'local', 'artists', 'services']",Chicago,"Generate domain name suggestions for the following business:
+
+Business: local art gallery offering local artists services
+
+Domain suggestions:
+- servicesgallery.com
+- offeringexhibit.com
+- exhibitchicago.com
+- l0cal.com",
+edge_17,"A comprehensive full-service professional tech startup specializing in cybersecurity, SaaS, and fintech located in the heart of Dallas with over 26 years of combined experience serving the local community with award-winning customer service and innovative solutions for all your tech startup needs and requirements, committed to excellence and customer satisfaction","['comprehensive.com', 'comprehensivepro.com', 'bestcomprehensive.com']",tech_startup,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: A comprehensive full-service professional tech startup specializing in cybersecurity, SaaS, and fintech located in the heart of Dallas with over 26 years of combined experience serving the local community with award-winning customer service and innovative solutions for all your tech startup needs and requirements, committed to excellence and customer satisfaction
+
+Domain suggestions:
+- comprehensive.com
+- comprehensivepro.com
+- bestcomprehensive.com",excessive_descriptions
+75,cleaning service specializing in commercial,"['ser85.net', 'charlottespecializing.com', 'topfresh.co', 'cleasolutions.co', 'commercialservicefresh.net']",cleaning_service,medium,False,5,"['cleaning', 'service', 'specializing', 'commercial']",Charlotte,"Generate domain name suggestions for the following business:
+
+Business: cleaning service specializing in commercial
+
+Domain suggestions:
+- ser85.net
+- charlottespecializing.com
+- topfresh.co
+- cleasolutions.co
+- commercialservicefresh.net",
+136,local healthcare clinic offering dental services,"['healthcareclinicpro.com', 'dental.co', 'indianapoliscare.com', 'clinicfy.com']",healthcare_clinic,medium,False,4,"['local', 'healthcare', 'clinic', 'offering', 'dental', 'services']",Indianapolis,"Generate domain name suggestions for the following business:
+
+Business: local healthcare clinic offering dental services
+
+Domain suggestions:
+- healthcareclinicpro.com
+- dental.co
+- indianapoliscare.com
+- clinicfy.com",
+edge_27,real estate agency - Premium,"['real.com', 'realpro.com', 'bestreal.com', 'estate.com']",real_estate_agency,edge_case,True,4,,,"Generate domain name suggestions for the following business:
+
+Business: real estate agency - Premium
+
+Domain suggestions:
+- real.com
+- realpro.com
+- bestreal.com
+- estate.com",unusual_characters
+16,"We are a locally-owned coffee shop in Houston specializing in cafe, serving the Houston area for over 16 years","['cafe.co', 'beanshop.com', 'houstoncoffeeshop.com', 'lattespot.com', 'servingcoffeeshop.net']",coffee_shop,complex,False,5,"['locally', 'owned', 'coffee', 'shop', 'houston', 'specializing', 'cafe', 'serving', 'houston']",Houston,"Generate domain name suggestions for the following business:
+
+Business: We are a locally-owned coffee shop in Houston specializing in cafe, serving the Houston area for over 16 years
+
+Domain suggestions:
+- cafe.co
+- beanshop.com
+- houstoncoffeeshop.com
+- lattespot.com
+- servingcoffeeshop.net",
+edge_16,AI-powered consulting firm utilizing machine learning algorithms and blockchain technology,"['powered.com', 'poweredpro.com', 'bestpowered.com']",consulting_firm,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: AI-powered consulting firm utilizing machine learning algorithms and blockchain technology
+
+Domain suggestions:
+- powered.com
+- poweredpro.com
+- bestpowered.com",technical_jargon
+edge_3,family business,"['family.com', 'familypro.com', 'bestfamily.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: family business
+
+Domain suggestions:
+- family.com
+- familypro.com
+- bestfamily.com",ambiguous_business
+36,fitness center,"['fitnesscenterexpert.net', 'powertraining.com', 'wellnesspower.com', 'centerly.com']",fitness_center,simple,False,4,"['fitness', 'center']",,"Generate domain name suggestions for the following business:
+
+Business: fitness center
+
+Domain suggestions:
+- fitnesscenterexpert.net
+- powertraining.com
+- wellnesspower.com
+- centerly.com",
+107,"We are a professional catering in San Jose specializing in wedding, with a focus on customer satisfaction and quality service","['cateringworks.com', 'cateringcatering.com', 'cateringsanjose.net', 'josequalitysatisfaction.com', 'qualitytop.net']",catering,complex,False,5,"['professional', 'catering', 'san', 'jose', 'specializing', 'wedding', 'focus', 'customer', 'satisfaction', 'quality', 'service']",San Jose,"Generate domain name suggestions for the following business:
+
+Business: We are a professional catering in San Jose specializing in wedding, with a focus on customer satisfaction and quality service
+
+Domain suggestions:
+- cateringworks.com
+- cateringcatering.com
+- cateringsanjose.net
+- josequalitysatisfaction.com
+- qualitytop.net",
+5,local retail store offering books services,"['retailstorehub.com', 'fashify.com', 'sanantonioreta.com', 'retailstoreexpert.com', 'offeringsanantonio.com']",retail_store,medium,False,5,"['local', 'retail', 'store', 'offering', 'books', 'services']",San Antonio,"Generate domain name suggestions for the following business:
+
+Business: local retail store offering books services
+
+Domain suggestions:
+- retailstorehub.com
+- fashify.com
+- sanantonioreta.com
+- retailstoreexpert.com
+- offeringsanantonio.com",
+129,full-service dental practice offering cosmetic services in the old town area of Boston,"['dental.com', 'bostonoffering.com', 'labold.net', 'dentalpracticefull.com', 'oldservice.org']",dental_practice,complex,False,5,"['full', 'service', 'dental', 'practice', 'offering', 'cosmetic', 'services', 'old', 'town', 'boston']",Boston,"Generate domain name suggestions for the following business:
+
+Business: full-service dental practice offering cosmetic services in the old town area of Boston
+
+Domain suggestions:
+- dental.com
+- bostonoffering.com
+- labold.net
+- dentalpracticefull.com
+- oldservice.org",
+6,local photography studio offering event services,"['localspot.com', 'creativephotographylocal.net', 'photographystudiooffering.net', 'photographystudiolens.com', 'zonelocal.com']",photography_studio,medium,False,5,"['local', 'photography', 'studio', 'offering', 'event', 'services']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: local photography studio offering event services
+
+Domain suggestions:
+- localspot.com
+- creativephotographylocal.net
+- photographystudiooffering.net
+- photographystudiolens.com
+- zonelocal.com",
+edge_13,startup,"['startup.com', 'startuppro.com', 'beststartup.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: startup
+
+Domain suggestions:
+- startup.com
+- startuppro.com
+- beststartup.com",ambiguous_business
+58,friendly dental practice offering pediatric services in the uptown area of Nashville,"['d3ntal.com', 'dentalpracticeworks.com', 'nashvillenash.com', 'uptownnashville.com']",dental_practice,complex,False,4,"['friendly', 'dental', 'practice', 'offering', 'pediatric', 'services', 'uptown', 'nashville']",Nashville,"Generate domain name suggestions for the following business:
+
+Business: friendly dental practice offering pediatric services in the uptown area of Nashville
+
+Domain suggestions:
+- d3ntal.com
+- dentalpracticeworks.com
+- nashvillenash.com
+- uptownnashville.com",
+146,auto repair,"['servicecarauto.com', 'servicerepairauto.net', 'repairco.com', 'autoquick.com', 'autorepairrepair.net', 'autoquick.net']",auto_repair,simple,False,6,"['auto', 'repair']",,"Generate domain name suggestions for the following business:
+
+Business: auto repair
+
+Domain suggestions:
+- servicecarauto.com
+- servicerepairauto.net
+- repairco.com
+- autoquick.com
+- autorepairrepair.net
+- autoquick.net",
+135,art gallery,"['exh27.com', 'artgallery.com', 'artgalleryart.com', 'art60.com', 'creaco.net']",art_gallery,simple,False,5,"['art', 'gallery']",,"Generate domain name suggestions for the following business:
+
+Business: art gallery
+
+Domain suggestions:
+- exh27.com
+- artgallery.com
+- artgalleryart.com
+- art60.com
+- creaco.net",
+95,"We are a established landscaping in Fort Worth specializing in maintenance, dedicated to meeting all your landscaping needs","['fortmaintenance.com', 'fortworthgard.com', 'hubfort.com', 'landscapelandscaping.com', 'fortworthland.com']",landscaping,complex,False,5,"['established', 'landscaping', 'fort', 'worth', 'specializing', 'maintenance', 'dedicated', 'meeting', 'landscaping', 'needs']",Fort Worth,"Generate domain name suggestions for the following business:
+
+Business: We are a established landscaping in Fort Worth specializing in maintenance, dedicated to meeting all your landscaping needs
+
+Domain suggestions:
+- fortmaintenance.com
+- fortworthgard.com
+- hubfort.com
+- landscapelandscaping.com
+- fortworthland.com",
+61,reliable marketing agency offering digital marketing services in the uptown area of Phoenix,"['promar.com', 'phoenixoffering.com', 'creativeplus.co', 'marketingworks.com']",marketing_agency,complex,False,4,"['reliable', 'marketing', 'agency', 'offering', 'digital', 'marketing', 'services', 'uptown', 'phoenix']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: reliable marketing agency offering digital marketing services in the uptown area of Phoenix
+
+Domain suggestions:
+- promar.com
+- phoenixoffering.com
+- creativeplus.co
+- marketingworks.com",
+0,bookstore specializing in used books,"['knowl45.com', 'myspecializing.com', 'bookstoreread.com', 'literaturephiladelphia.net', 'literaturereadbook.com', 'specializingusedread.com']",bookstore,medium,False,6,"['bookstore', 'specializing', 'used', 'books']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: bookstore specializing in used books
+
+Domain suggestions:
+- knowl45.com
+- myspecializing.com
+- bookstoreread.com
+- literaturephiladelphia.net
+- literaturereadbook.com
+- specializingusedread.com",
+45,local dental practice offering cosmetic services,"['denveroral.com', 'cosmeticteeth.com', 'teeth21.com', 'teethbest.com', 'denverlocal.com', 'worksteet.com']",dental_practice,medium,False,6,"['local', 'dental', 'practice', 'offering', 'cosmetic', 'services']",Denver,"Generate domain name suggestions for the following business:
+
+Business: local dental practice offering cosmetic services
+
+Domain suggestions:
+- denveroral.com
+- cosmeticteeth.com
+- teeth21.com
+- teethbest.com
+- denverlocal.com
+- worksteet.com",
+38,fitness center,"['muscletraininghealth.com', 'bestheal.com', 'strongactive.com']",fitness_center,simple,False,3,"['fitness', 'center']",,"Generate domain name suggestions for the following business:
+
+Business: fitness center
+
+Domain suggestions:
+- muscletraininghealth.com
+- bestheal.com
+- strongactive.com",
+105,"convenient wellness healthcare clinic located in shopping district, Phoenix, serving the Phoenix area for over 17 years","['247clinic.com', 'placedoct.com', 'phoenixcare.com']",healthcare_clinic,complex,False,3,"['convenient', 'wellness', 'healthcare', 'clinic', 'shopping', 'district', 'phoenix', 'serving', 'phoenix']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: convenient wellness healthcare clinic located in shopping district, Phoenix, serving the Phoenix area for over 17 years
+
+Domain suggestions:
+- 247clinic.com
+- placedoct.com
+- phoenixcare.com",
+120,local restaurant offering seafood services,"['grillio.co', 'taste70.co', 'deliciousfresh.com', 'tastedelicious.com', 'localdelicious.com']",restaurant,medium,False,5,"['local', 'restaurant', 'offering', 'seafood', 'services']",Austin,"Generate domain name suggestions for the following business:
+
+Business: local restaurant offering seafood services
+
+Domain suggestions:
+- grillio.co
+- taste70.co
+- deliciousfresh.com
+- tastedelicious.com
+- localdelicious.com",
+edge_1,"Established art gallery offering premium local artists services, expert local artists solutions, and specialized photography consulting for businesses and individuals throughout Boston and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations","['established.com', 'establishedpro.com', 'bestestablished.com', 'art.com']",art_gallery,edge_case,True,4,,,"Generate domain name suggestions for the following business:
+
+Business: Established art gallery offering premium local artists services, expert local artists solutions, and specialized photography consulting for businesses and individuals throughout Boston and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations
+
+Domain suggestions:
+- established.com
+- establishedpro.com
+- bestestablished.com
+- art.com",excessive_descriptions
+134,marketing agency,"['brandagencydigital.com', 'marketingagencybrand.com', 'branddigital.com', 'digitaio.com', 'quickcreat.com', 'hubmarketing.co', 'expressdigital.com']",marketing_agency,simple,False,7,"['marketing', 'agency']",,"Generate domain name suggestions for the following business:
+
+Business: marketing agency
+
+Domain suggestions:
+- brandagencydigital.com
+- marketingagencybrand.com
+- branddigital.com
+- digitaio.com
+- quickcreat.com
+- hubmarketing.co
+- expressdigital.com",
+141,cleaning service specializing in commercial,"['cleanprime.com', 'cleaningcleancommercial.com', 'spec.com', 'spotlessspecializing.com', 'washingtondcclea.net', 'freshspotlessservice.com', 'cleaningclean.com']",cleaning_service,medium,False,7,"['cleaning', 'service', 'specializing', 'commercial']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: cleaning service specializing in commercial
+
+Domain suggestions:
+- cleanprime.com
+- cleaningcleancommercial.com
+- spec.com
+- spotlessspecializing.com
+- washingtondcclea.net
+- freshspotlessservice.com
+- cleaningclean.com",
+27,local consulting firm offering strategy services,"['consultingfirmexperts.net', 'primeoffe.com', 'zoneprofessional.com', 'expertslocal.com']",consulting_firm,medium,False,4,"['local', 'consulting', 'firm', 'offering', 'strategy', 'services']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: local consulting firm offering strategy services
+
+Domain suggestions:
+- consultingfirmexperts.net
+- primeoffe.com
+- zoneprofessional.com
+- expertslocal.com",
+122,local healthcare clinic offering alternative medicine services,"['localwelln.com', 'medicinefamily.com', 'cliniccharlotte.net']",healthcare_clinic,medium,False,3,"['local', 'healthcare', 'clinic', 'offering', 'alternative', 'medicine', 'services']",Charlotte,"Generate domain name suggestions for the following business:
+
+Business: local healthcare clinic offering alternative medicine services
+
+Domain suggestions:
+- localwelln.com
+- medicinefamily.com
+- cliniccharlotte.net",
+19,blockchain tech startup in community,"['techstartupdata.com', 'plathub.co', 'commuplace.com', 'comm36.com', 'seattlesmart.net']",tech_startup,medium,False,5,"['blockchain', 'tech', 'startup', 'community']",Seattle,"Generate domain name suggestions for the following business:
+
+Business: blockchain tech startup in community
+
+Domain suggestions:
+- techstartupdata.com
+- plathub.co
+- commuplace.com
+- comm36.com
+- seattlesmart.net",
+83,"We are a experienced consulting firm in Philadelphia specializing in financial, serving the Philadelphia area for over 22 years","['cons.io', 'servingspecializingbusiness.com', 'expertsfinancial.com', 'financialplus.co', 'solut42.co', 'advisoryfirmphiladelphia.com']",consulting_firm,complex,False,6,"['experienced', 'consulting', 'firm', 'philadelphia', 'specializing', 'financial', 'serving', 'philadelphia']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: We are a experienced consulting firm in Philadelphia specializing in financial, serving the Philadelphia area for over 22 years
+
+Domain suggestions:
+- cons.io
+- servingspecializingbusiness.com
+- expertsfinancial.com
+- financialplus.co
+- solut42.co
+- advisoryfirmphiladelphia.com",
+edge_20,"Established real estate agency offering premium luxury services, expert property management solutions, and specialized first-time buyers consulting for businesses and individuals throughout San Jose and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations","['established.com', 'establishedpro.com', 'bestestablished.com']",real_estate_agency,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: Established real estate agency offering premium luxury services, expert property management solutions, and specialized first-time buyers consulting for businesses and individuals throughout San Jose and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations
+
+Domain suggestions:
+- established.com
+- establishedpro.com
+- bestestablished.com",excessive_descriptions
+41,landscaping specializing in maintenance,"['zoneland.com', 'maintenancelandscape.com', 'mymain.com']",landscaping,medium,False,3,"['landscaping', 'specializing', 'maintenance']",Indianapolis,"Generate domain name suggestions for the following business:
+
+Business: landscaping specializing in maintenance
+
+Domain suggestions:
+- zoneland.com
+- maintenancelandscape.com
+- mymain.com",
+82,local auto repair offering transmission services,"['autorepairgroup.com', 'offeringsanfrancisco.com', 'sanfranciscoloca.com']",auto_repair,medium,False,3,"['local', 'auto', 'repair', 'offering', 'transmission', 'services']",San Francisco,"Generate domain name suggestions for the following business:
+
+Business: local auto repair offering transmission services
+
+Domain suggestions:
+- autorepairgroup.com
+- offeringsanfrancisco.com
+- sanfranciscoloca.com",
+1,martial arts fitness center in Boston,"['artsboston.com', 'martialpowerstrong.net', 'bostonfitnesscenter.com', 'muscleboston.com']",fitness_center,medium,False,4,"['martial', 'arts', 'fitness', 'center', 'boston']",Boston,"Generate domain name suggestions for the following business:
+
+Business: martial arts fitness center in Boston
+
+Domain suggestions:
+- artsboston.com
+- martialpowerstrong.net
+- bostonfitnesscenter.com
+- muscleboston.com",
+35,"trusted cafe restaurant located in arts district, Seattle, with a focus on customer satisfaction and quality service","['qualitysatisfactioncuisine.com', 'restaurantservice.com', 'restaurantlab.org', 'seattlechef.net']",restaurant,complex,False,4,"['trusted', 'cafe', 'restaurant', 'arts', 'district', 'seattle', 'focus', 'customer', 'satisfaction', 'quality', 'service']",Seattle,"Generate domain name suggestions for the following business:
+
+Business: trusted cafe restaurant located in arts district, Seattle, with a focus on customer satisfaction and quality service
+
+Domain suggestions:
+- qualitysatisfactioncuisine.com
+- restaurantservice.com
+- restaurantlab.org
+- seattlechef.net",
+edge_11,place,"['place.com', 'placepro.com', 'bestplace.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: place
+
+Domain suggestions:
+- place.com
+- placepro.com
+- bestplace.com",minimal_descriptions
+49,books retail store in downtown,"['booksly.net', 'jacksonvillereta.com', 'jacksonvilleshop.com']",retail_store,medium,False,3,"['books', 'retail', 'store', 'downtown']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: books retail store in downtown
+
+Domain suggestions:
+- booksly.net
+- jacksonvillereta.com
+- jacksonvilleshop.com",
+14,local bookstore offering academic services,"['knowledgeservicesoffering.com', 'read.net', 'bookstorelab.com']",bookstore,medium,False,3,"['local', 'bookstore', 'offering', 'academic', 'services']",Chicago,"Generate domain name suggestions for the following business:
+
+Business: local bookstore offering academic services
+
+Domain suggestions:
+- knowledgeservicesoffering.com
+- read.net
+- bookstorelab.com",
+113,property management real estate agency in arts district,"['sanjosehous.com', 'estateco.com', 'sellfy.com']",real_estate_agency,medium,False,3,"['property', 'management', 'real', 'estate', 'agency', 'arts', 'district']",San Jose,"Generate domain name suggestions for the following business:
+
+Business: property management real estate agency in arts district
+
+Domain suggestions:
+- sanjosehous.com
+- estateco.com
+- sellfy.com",
+edge_19,retail store @ Location,"['retail.com', 'retailpro.com', 'bestretail.com', 'store.com']",retail_store,edge_case,True,4,,,"Generate domain name suggestions for the following business:
+
+Business: retail store @ Location
+
+Domain suggestions:
+- retail.com
+- retailpro.com
+- bestretail.com
+- store.com",unusual_characters
+124,family law law firm in shopping district,"['toplaw.com', 'districtplus.com', 'firmcounsel.com', 'attlab.net', 'districtlegaldefense.com', 'expressattorney.com']",law_firm,medium,False,6,"['family', 'law', 'law', 'firm', 'shopping', 'district']",Fort Worth,"Generate domain name suggestions for the following business:
+
+Business: family law law firm in shopping district
+
+Domain suggestions:
+- toplaw.com
+- districtplus.com
+- firmcounsel.com
+- attlab.net
+- districtlegaldefense.com
+- expressattorney.com",
+77,local fitness center offering personal training services,"['activebest.net', 'fitnesscenterhealth.com', 'fitnesscenterfit.com', 'fitnesscenterspot.com', 'fitnessfitnesscenter.com', 'powercenterwellness.com', 'musclepowertraining.com']",fitness_center,medium,False,7,"['local', 'fitness', 'center', 'offering', 'personal', 'training', 'services']",Boston,"Generate domain name suggestions for the following business:
+
+Business: local fitness center offering personal training services
+
+Domain suggestions:
+- activebest.net
+- fitnesscenterhealth.com
+- fitnesscenterfit.com
+- fitnesscenterspot.com
+- fitnessfitnesscenter.com
+- powercenterwellness.com
+- musclepowertraining.com",
+11,"expert real estate law firm located in financial district, Columbus, dedicated to meeting all your law firm needs","['advocateexpert.com', 'ded.com', 'columbusexpe.net', 'really.com', 'lawfirmmeeting.com', 'columbuslaw.com']",law_firm,complex,False,6,"['expert', 'real', 'estate', 'law', 'firm', 'financial', 'district', 'columbus', 'dedicated', 'meeting', 'law', 'firm', 'needs']",Columbus,"Generate domain name suggestions for the following business:
+
+Business: expert real estate law firm located in financial district, Columbus, dedicated to meeting all your law firm needs
+
+Domain suggestions:
+- advocateexpert.com
+- ded.com
+- columbusexpe.net
+- really.com
+- lawfirmmeeting.com
+- columbuslaw.com",
+159,"expert tax preparation accounting firm located in residential area, Baltimore, with a focus on customer satisfaction and quality service","['financialbaltimore.net', 'balt.com', 'taxworks.com', 'serviceaccountingfirm.com', 'theexpert.com', 'localsati.com']",accounting_firm,complex,False,6,"['expert', 'tax', 'preparation', 'accounting', 'firm', 'residential', 'baltimore', 'focus', 'customer', 'satisfaction', 'quality', 'service']",Baltimore,"Generate domain name suggestions for the following business:
+
+Business: expert tax preparation accounting firm located in residential area, Baltimore, with a focus on customer satisfaction and quality service
+
+Domain suggestions:
+- financialbaltimore.net
+- balt.com
+- taxworks.com
+- serviceaccountingfirm.com
+- theexpert.com
+- localsati.com",
+114,auto repair,"['auto92.co', 'autocarrepair.com', 'auto247.io', 'autorepairrepair.org']",auto_repair,simple,False,4,"['auto', 'repair']",,"Generate domain name suggestions for the following business:
+
+Business: auto repair
+
+Domain suggestions:
+- auto92.co
+- autocarrepair.com
+- auto247.io
+- autorepairrepair.org",
+126,consulting firm,"['buslab.co', 'cons.com', 'quickbusi.co']",consulting_firm,simple,False,3,"['consulting', 'firm']",,"Generate domain name suggestions for the following business:
+
+Business: consulting firm
+
+Domain suggestions:
+- buslab.co
+- cons.com
+- quickbusi.co",
+81,strategy consulting firm in financial district,"['proconsul.com', 'businessprofessionalsolutions.com', 'groupadvisory.net', 'quickadvisory.co', 'consultingadvisoryfirm.com']",consulting_firm,medium,False,5,"['strategy', 'consulting', 'firm', 'financial', 'district']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: strategy consulting firm in financial district
+
+Domain suggestions:
+- proconsul.com
+- businessprofessionalsolutions.com
+- groupadvisory.net
+- quickadvisory.co
+- consultingadvisoryfirm.com",
+71,operations consulting firm in Denver,"['professionaldenver.com', 'firmadvisory.com', 'expertzone.com', 'advisorystrategysolutions.com', 'expertsconsultingfirm.com', 'professionaladvisoryexperts.com', 'denverconsulting.com']",consulting_firm,medium,False,7,"['operations', 'consulting', 'firm', 'denver']",Denver,"Generate domain name suggestions for the following business:
+
+Business: operations consulting firm in Denver
+
+Domain suggestions:
+- professionaldenver.com
+- firmadvisory.com
+- expertzone.com
+- advisorystrategysolutions.com
+- expertsconsultingfirm.com
+- professionaladvisoryexperts.com
+- denverconsulting.com",
+edge_12,firm,"['firm.com', 'firmpro.com', 'bestfirm.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: firm
+
+Domain suggestions:
+- firm.com
+- firmpro.com
+- bestfirm.com",ambiguous_business
+116,restaurant,"['freshly.com', 'kitchengroup.com', 'workscuisine.co', 'grillio.com']",restaurant,simple,False,4,['restaurant'],,"Generate domain name suggestions for the following business:
+
+Business: restaurant
+
+Domain suggestions:
+- freshly.com
+- kitchengroup.com
+- workscuisine.co
+- grillio.com",
+72,cleaning service,"['cleaningfreshspotless.com', 'servicepro.com', 'smartclean.co', 'cleanservice.com']",cleaning_service,simple,False,4,"['cleaning', 'service']",,"Generate domain name suggestions for the following business:
+
+Business: cleaning service
+
+Domain suggestions:
+- cleaningfreshspotless.com
+- servicepro.com
+- smartclean.co
+- cleanservice.com",
+edge_21,company,"['company.com', 'companypro.com', 'bestcompany.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: company
+
+Domain suggestions:
+- company.com
+- companypro.com
+- bestcompany.com",minimal_descriptions
+84,local marketing agency offering digital marketing services,"['plusbrand.com', 'brandsolutions.com', 'branddallas.net']",marketing_agency,medium,False,3,"['local', 'marketing', 'agency', 'offering', 'digital', 'marketing', 'services']",Dallas,"Generate domain name suggestions for the following business:
+
+Business: local marketing agency offering digital marketing services
+
+Domain suggestions:
+- plusbrand.com
+- brandsolutions.com
+- branddallas.net",
+144,luxury real estate agency in suburban,"['marketrealestateagency.com', 'estatesanfrancisco.com', 'investrealestateagency.com', 'solutionsagency.net']",real_estate_agency,medium,False,4,"['luxury', 'real', 'estate', 'agency', 'suburban']",San Francisco,"Generate domain name suggestions for the following business:
+
+Business: luxury real estate agency in suburban
+
+Domain suggestions:
+- marketrealestateagency.com
+- estatesanfrancisco.com
+- investrealestateagency.com
+- solutionsagency.net",
+86,fine dining catering in financial district,"['groupfine.com', 'washingtondcfood.org', 'finecatering.com']",catering,medium,False,3,"['fine', 'dining', 'catering', 'financial', 'district']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: fine dining catering in financial district
+
+Domain suggestions:
+- groupfine.com
+- washingtondcfood.org
+- finecatering.com",
+138,family dentistry dental practice in financial district,"['dentistrymy.net', 'solutionsdentistry.net', 'easyfinan.net', 'districtteeth.com', 'dentalsmilefinancial.com', 'placeteet.com']",dental_practice,medium,False,6,"['family', 'dentistry', 'dental', 'practice', 'financial', 'district']",Dallas,"Generate domain name suggestions for the following business:
+
+Business: family dentistry dental practice in financial district
+
+Domain suggestions:
+- dentistrymy.net
+- solutionsdentistry.net
+- easyfinan.net
+- districtteeth.com
+- dentalsmilefinancial.com
+- placeteet.com",
+edge_29,"Established dental practice offering premium pediatric services, expert family dentistry solutions, and specialized family dentistry consulting for businesses and individuals throughout San Francisco and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations","['established.com', 'establishedpro.com', 'bestestablished.com', 'dental.com', 'dentalpro.com']",dental_practice,edge_case,True,5,,,"Generate domain name suggestions for the following business:
+
+Business: Established dental practice offering premium pediatric services, expert family dentistry solutions, and specialized family dentistry consulting for businesses and individuals throughout San Francisco and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations
+
+Domain suggestions:
+- established.com
+- establishedpro.com
+- bestestablished.com
+- dental.com
+- dentalpro.com",excessive_descriptions
+157,marketing consulting firm in arts district,"['profe53.com', 'themarketing.net', 'districteasy.com']",consulting_firm,medium,False,3,"['marketing', 'consulting', 'firm', 'arts', 'district']",Los Angeles,"Generate domain name suggestions for the following business:
+
+Business: marketing consulting firm in arts district
+
+Domain suggestions:
+- profe53.com
+- themarketing.net
+- districteasy.com",
+154,law firm,"['mylaw.com', 'justiceprime.com', 'lawfirmplus.net', 'attor.com']",law_firm,simple,False,4,"['law', 'firm']",,"Generate domain name suggestions for the following business:
+
+Business: law firm
+
+Domain suggestions:
+- mylaw.com
+- justiceprime.com
+- lawfirmplus.net
+- attor.com",
+62,local cleaning service offering deep cleaning services,"['primeclea.com', 'localofferingspotless.com', 'cleaningservicezone.com']",cleaning_service,medium,False,3,"['local', 'cleaning', 'service', 'offering', 'deep', 'cleaning', 'services']",Austin,"Generate domain name suggestions for the following business:
+
+Business: local cleaning service offering deep cleaning services
+
+Domain suggestions:
+- primeclea.com
+- localofferingspotless.com
+- cleaningservicezone.com",
+131,local veterinary clinic offering exotic pets services,"['prolocal.com', 'clinic.io', 'localzone.co', 'placevet.com', 'sandiegopet.com']",veterinary_clinic,medium,False,5,"['local', 'veterinary', 'clinic', 'offering', 'exotic', 'pets', 'services']",San Diego,"Generate domain name suggestions for the following business:
+
+Business: local veterinary clinic offering exotic pets services
+
+Domain suggestions:
+- prolocal.com
+- clinic.io
+- localzone.co
+- placevet.com
+- sandiegopet.com",
+98,local tech startup offering edtech services,"['smartoffering.com', 'offerihub.com', 'edtech61.io', 'datadigitalservices.com', 'techstartupinnovation.com']",tech_startup,medium,False,5,"['local', 'tech', 'startup', 'offering', 'edtech', 'services']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: local tech startup offering edtech services
+
+Domain suggestions:
+- smartoffering.com
+- offerihub.com
+- edtech61.io
+- datadigitalservices.com
+- techstartupinnovation.com",
+97,sculpture art gallery in old town,"['247town.com', 'oldco.com', 'localcrea.co']",art_gallery,medium,False,3,"['sculpture', 'art', 'gallery', 'old', 'town']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: sculpture art gallery in old town
+
+Domain suggestions:
+- 247town.com
+- oldco.com
+- localcrea.co",
+115,bookstore,"['bookquick.net', 'bookknowledgeread.com', 'r3ad.com', 'bookread.net', 'lite17.com', 'knowledgeplace.com', 'b00ks.com']",bookstore,simple,False,7,['bookstore'],,"Generate domain name suggestions for the following business:
+
+Business: bookstore
+
+Domain suggestions:
+- bookquick.net
+- bookknowledgeread.com
+- r3ad.com
+- bookread.net
+- lite17.com
+- knowledgeplace.com
+- b00ks.com",
+edge_14,business,"['business.com', 'businesspro.com', 'bestbusiness.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: business
+
+Domain suggestions:
+- business.com
+- businesspro.com
+- bestbusiness.com",minimal_descriptions
+118,"friendly ethnic cuisine restaurant located in suburban, Dallas, committed to providing excellent ethnic cuisine services","['restaurantpro.com', 'quickrest.com', 'excell.co', 'thecom.io', 'thekitc.net', 'cuisineservicesfresh.com']",restaurant,complex,False,6,"['friendly', 'ethnic', 'cuisine', 'restaurant', 'suburban', 'dallas', 'committed', 'providing', 'excellent', 'ethnic', 'cuisine', 'services']",Dallas,"Generate domain name suggestions for the following business:
+
+Business: friendly ethnic cuisine restaurant located in suburban, Dallas, committed to providing excellent ethnic cuisine services
+
+Domain suggestions:
+- restaurantpro.com
+- quickrest.com
+- excell.co
+- thecom.io
+- thekitc.net
+- cuisineservicesfresh.com",
+156,friendly real estate agency offering investment services in the midtown area of Indianapolis,"['estate.com', 'indianapolishome.com', 'market.com', 'propertyindianapolis.com', 'midtownreal.com', 'servicesco.net']",real_estate_agency,complex,False,6,"['friendly', 'real', 'estate', 'agency', 'offering', 'investment', 'services', 'midtown', 'indianapolis']",Indianapolis,"Generate domain name suggestions for the following business:
+
+Business: friendly real estate agency offering investment services in the midtown area of Indianapolis
+
+Domain suggestions:
+- estate.com
+- indianapolishome.com
+- market.com
+- propertyindianapolis.com
+- midtownreal.com
+- servicesco.net",
+117,domestic auto repair in San Antonio,"['autorepairplus.com', 'autorepairservice.net', 'repairsan.org', 'repaircar.com', 'autorepairzone.com', 'servly.com', 'san.io']",auto_repair,medium,False,7,"['domestic', 'auto', 'repair', 'san', 'antonio']",San Antonio,"Generate domain name suggestions for the following business:
+
+Business: domestic auto repair in San Antonio
+
+Domain suggestions:
+- autorepairplus.com
+- autorepairservice.net
+- repairsan.org
+- repaircar.com
+- autorepairzone.com
+- servly.com
+- san.io",
+26,"reliable personal training fitness center located in old town, Phoenix, dedicated to meeting all your fitness center needs","['town.net', 'phoenixmuscle.com', 'thewell.co', 'dedicatedbest.com', 'themeeting.com']",fitness_center,complex,False,5,"['reliable', 'personal', 'training', 'fitness', 'center', 'old', 'town', 'phoenix', 'dedicated', 'meeting', 'fitness', 'center', 'needs']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: reliable personal training fitness center located in old town, Phoenix, dedicated to meeting all your fitness center needs
+
+Domain suggestions:
+- town.net
+- phoenixmuscle.com
+- thewell.co
+- dedicatedbest.com
+- themeeting.com",
+13,reliable photography studio offering wedding services in the shopping district area of Jacksonville,"['offerco.com', 'visual7.net', 'jacksonvillelens.com', 'memoryspot.com', 'photo98.net', 'shoppingphotography.com', 'visualphotographystudio.com']",photography_studio,complex,False,7,"['reliable', 'photography', 'studio', 'offering', 'wedding', 'services', 'shopping', 'district', 'jacksonville']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: reliable photography studio offering wedding services in the shopping district area of Jacksonville
+
+Domain suggestions:
+- offerco.com
+- visual7.net
+- jacksonvillelens.com
+- memoryspot.com
+- photo98.net
+- shoppingphotography.com
+- visualphotographystudio.com",
+edge_39,"Established landscaping offering premium residential services, expert residential solutions, and specialized maintenance consulting for businesses and individuals throughout Fort Worth and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations","['established.com', 'establishedpro.com', 'bestestablished.com']",landscaping,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: Established landscaping offering premium residential services, expert residential solutions, and specialized maintenance consulting for businesses and individuals throughout Fort Worth and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations
+
+Domain suggestions:
+- established.com
+- establishedpro.com
+- bestestablished.com",excessive_descriptions
+96,tech startup specializing in mobile app,"['cloudio.co', 'charlotteapp.org', 'techstartupexpert.com', 'charlotteplatform.org', 'startuspot.com']",tech_startup,medium,False,5,"['tech', 'startup', 'specializing', 'mobile', 'app']",Charlotte,"Generate domain name suggestions for the following business:
+
+Business: tech startup specializing in mobile app
+
+Domain suggestions:
+- cloudio.co
+- charlotteapp.org
+- techstartupexpert.com
+- charlotteplatform.org
+- startuspot.com",
+edge_23,clinic,"['clinic.com', 'clinicpro.com', 'bestclinic.com']",healthcare_clinic,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: clinic
+
+Domain suggestions:
+- clinic.com
+- clinicpro.com
+- bestclinic.com",minimal_descriptions
+63,event photography studio in midtown,"['photographystudiospot.net', 'lensvisualmemory.net', 'crefy.com', 'picturelens.com', 'newyorkphotography.com', 'capturecreative.com']",photography_studio,medium,False,6,"['event', 'photography', 'studio', 'midtown']",New York,"Generate domain name suggestions for the following business:
+
+Business: event photography studio in midtown
+
+Domain suggestions:
+- photographystudiospot.net
+- lensvisualmemory.net
+- crefy.com
+- picturelens.com
+- newyorkphotography.com
+- capturecreative.com",
+31,"We are a expert catering in Philadelphia specializing in corporate, known for our professional and friendly approach","['friendlycatering.com', 'bestexpe.com', 'cately.co', 'corporatebest.com', 'specializinglab.net', 'cateringknown.com']",catering,complex,False,6,"['expert', 'catering', 'philadelphia', 'specializing', 'corporate', 'known', 'professional', 'friendly', 'approach']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: We are a expert catering in Philadelphia specializing in corporate, known for our professional and friendly approach
+
+Domain suggestions:
+- friendlycatering.com
+- bestexpe.com
+- cately.co
+- corporatebest.com
+- specializinglab.net
+- cateringknown.com",
+147,photography studio,"['photographymemory.com', 'photostudiopicture.com', 'memoryvisual.com', 'quickcapture.com', 'photographystudioplus.com', 'memoryphotographystudio.com']",photography_studio,simple,False,6,"['photography', 'studio']",,"Generate domain name suggestions for the following business:
+
+Business: photography studio
+
+Domain suggestions:
+- photographymemory.com
+- photostudiopicture.com
+- memoryvisual.com
+- quickcapture.com
+- photographystudioplus.com
+- memoryphotographystudio.com",
+edge_34,cafe,"['cafe.com', 'cafepro.com', 'bestcafe.com']",coffee_shop,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: cafe
+
+Domain suggestions:
+- cafe.com
+- cafepro.com
+- bestcafe.com",minimal_descriptions
+21,IT consulting firm in Denver,"['denvercons.net', 'consultingconsultingfirm.com', 'businco.co', 'firmfy.com', 'expertssolutionsprofessional.com']",consulting_firm,medium,False,5,"['consulting', 'firm', 'denver']",Denver,"Generate domain name suggestions for the following business:
+
+Business: IT consulting firm in Denver
+
+Domain suggestions:
+- denvercons.net
+- consultingconsultingfirm.com
+- businco.co
+- firmfy.com
+- expertssolutionsprofessional.com",
+33,established real estate agency offering commercial services in the old town area of Boston,"['realestateagencyexpert.net', 'topold.com', 'theservices.net', 'bostonhous.com']",real_estate_agency,complex,False,4,"['established', 'real', 'estate', 'agency', 'offering', 'commercial', 'services', 'old', 'town', 'boston']",Boston,"Generate domain name suggestions for the following business:
+
+Business: established real estate agency offering commercial services in the old town area of Boston
+
+Domain suggestions:
+- realestateagencyexpert.net
+- topold.com
+- theservices.net
+- bostonhous.com",
+73,"trusted mobile app tech startup located in residential area, Indianapolis, known for our professional and friendly approach","['solutiondigitaldata.com', 'appstartup.com', 'techstartupexpert.com', 'zonetrusted.com', 'frie41.com']",tech_startup,complex,False,5,"['trusted', 'mobile', 'app', 'tech', 'startup', 'residential', 'indianapolis', 'known', 'professional', 'friendly', 'approach']",Indianapolis,"Generate domain name suggestions for the following business:
+
+Business: trusted mobile app tech startup located in residential area, Indianapolis, known for our professional and friendly approach
+
+Domain suggestions:
+- solutiondigitaldata.com
+- appstartup.com
+- techstartupexpert.com
+- zonetrusted.com
+- frie41.com",
+47,catering specializing in fine dining,"['grouppart.com', 'dining.com', 'specializingparty.net']",catering,medium,False,3,"['catering', 'specializing', 'fine', 'dining']",Houston,"Generate domain name suggestions for the following business:
+
+Business: catering specializing in fine dining
+
+Domain suggestions:
+- grouppart.com
+- dining.com
+- specializingparty.net",
+158,crossfit fitness center in New York,"['yorkco.com', 'fitnesscenteractive.com', 'newyorkacti.com', 'musclefitness.com']",fitness_center,medium,False,4,"['crossfit', 'fitness', 'center', 'new', 'york']",New York,"Generate domain name suggestions for the following business:
+
+Business: crossfit fitness center in New York
+
+Domain suggestions:
+- yorkco.com
+- fitnesscenteractive.com
+- newyorkacti.com
+- musclefitness.com",
+edge_24,catering (NEW!),"['catering.com', 'cateringpro.com', 'bestcatering.com', 'new.com', 'newpro.com']",catering,edge_case,True,5,,,"Generate domain name suggestions for the following business:
+
+Business: catering (NEW!)
+
+Domain suggestions:
+- catering.com
+- cateringpro.com
+- bestcatering.com
+- new.com
+- newpro.com",unusual_characters
+103,real estate agency specializing in luxury,"['proper.net', 'luxuryfy.com', 'washingtondcbuy.org', 'estateluxury.org', 'homemarket.com', 'homeproperty.com', 'marketsellestate.com']",real_estate_agency,medium,False,7,"['real', 'estate', 'agency', 'specializing', 'luxury']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: real estate agency specializing in luxury
+
+Domain suggestions:
+- proper.net
+- luxuryfy.com
+- washingtondcbuy.org
+- estateluxury.org
+- homemarket.com
+- homeproperty.com
+- marketsellestate.com",
+edge_30,service provider,"['service.com', 'servicepro.com']",unknown,edge_case,True,2,,,"Generate domain name suggestions for the following business:
+
+Business: service provider
+
+Domain suggestions:
+- service.com
+- servicepro.com",ambiguous_business
+104,photography studio,"['lensphotographystudio.net', 'spotvisu.net', 'primecrea.net', 'elitevisual.net']",photography_studio,simple,False,4,"['photography', 'studio']",,"Generate domain name suggestions for the following business:
+
+Business: photography studio
+
+Domain suggestions:
+- lensphotographystudio.net
+- spotvisu.net
+- primecrea.net
+- elitevisual.net",
+94,"We are a convenient cleaning service in Washington DC specializing in deep cleaning, with a focus on customer satisfaction and quality service","['satisfactionserviceclean.com', 'washingtonfocusconvenient.com', 'washingtondcspecializing.net', 'spo93.com']",cleaning_service,complex,False,4,"['convenient', 'cleaning', 'service', 'washington', 'specializing', 'deep', 'cleaning', 'focus', 'customer', 'satisfaction', 'quality', 'service']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: We are a convenient cleaning service in Washington DC specializing in deep cleaning, with a focus on customer satisfaction and quality service
+
+Domain suggestions:
+- satisfactionserviceclean.com
+- washingtonfocusconvenient.com
+- washingtondcspecializing.net
+- spo93.com",
+edge_26,business,"['business.com', 'businesspro.com', 'bestbusiness.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: business
+
+Domain suggestions:
+- business.com
+- businesspro.com
+- bestbusiness.com",ambiguous_business
+44,fitness center specializing in gym,"['strong44.com', 'mystro.co', 'localfitness.com']",fitness_center,medium,False,3,"['fitness', 'center', 'specializing', 'gym']",Houston,"Generate domain name suggestions for the following business:
+
+Business: fitness center specializing in gym
+
+Domain suggestions:
+- strong44.com
+- mystro.co
+- localfitness.com",
+74,reliable law firm offering real estate services in the downtown area of Denver,"['lawfirmpro.com', 'lawoffering.com', 'elitedenv.com', 'reallawfirm.com', 'defco.com', 'downtownattorney.com', 'estateattorneyjustice.com']",law_firm,complex,False,7,"['reliable', 'law', 'firm', 'offering', 'real', 'estate', 'services', 'downtown', 'denver']",Denver,"Generate domain name suggestions for the following business:
+
+Business: reliable law firm offering real estate services in the downtown area of Denver
+
+Domain suggestions:
+- lawfirmpro.com
+- lawoffering.com
+- elitedenv.com
+- reallawfirm.com
+- defco.com
+- downtownattorney.com
+- estateattorneyjustice.com",
+43,fair trade coffee shop in Phoenix,"['fairco.com', 'fairlattecafe.com', 'roastcoffeelatte.com', 'phoenixroast.com']",coffee_shop,medium,False,4,"['fair', 'trade', 'coffee', 'shop', 'phoenix']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: fair trade coffee shop in Phoenix
+
+Domain suggestions:
+- fairco.com
+- fairlattecafe.com
+- roastcoffeelatte.com
+- phoenixroast.com",
+93,newborn photography studio in waterfront,"['pictco.com', 'newbornlab.com', 'pictureplus.com']",photography_studio,medium,False,3,"['newborn', 'photography', 'studio', 'waterfront']",Nashville,"Generate domain name suggestions for the following business:
+
+Business: newborn photography studio in waterfront
+
+Domain suggestions:
+- pictco.com
+- newbornlab.com
+- pictureplus.com",
+151,established veterinary clinic offering mobile services in the riverside area of Seattle,"['caresolutions.com', 'animalclinic.com', 'expressserv.com']",veterinary_clinic,complex,False,3,"['established', 'veterinary', 'clinic', 'offering', 'mobile', 'services', 'riverside', 'seattle']",Seattle,"Generate domain name suggestions for the following business:
+
+Business: established veterinary clinic offering mobile services in the riverside area of Seattle
+
+Domain suggestions:
+- caresolutions.com
+- animalclinic.com
+- expressserv.com",
+88,quality healthcare clinic offering alternative medicine services in the downtown area of Phoenix,"['care34.com', 'medicinealternativedoctor.com', 'placedowntown.net', 'qua.io', 'phoenixdowntown.org', 'offeringfamilywellness.com', 'clinichealthphoenix.com']",healthcare_clinic,complex,False,7,"['quality', 'healthcare', 'clinic', 'offering', 'alternative', 'medicine', 'services', 'downtown', 'phoenix']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: quality healthcare clinic offering alternative medicine services in the downtown area of Phoenix
+
+Domain suggestions:
+- care34.com
+- medicinealternativedoctor.com
+- placedowntown.net
+- qua.io
+- phoenixdowntown.org
+- offeringfamilywellness.com
+- clinichealthphoenix.com",
+10,eco-friendly cleaning service in uptown,"['cleanpro.com', 'spo70.com', 'cleaningclean.net', 'ecoexpress.com', 'cleaningplus.com', 'cleaningfriendlyeco.com']",cleaning_service,medium,False,6,"['eco', 'friendly', 'cleaning', 'service', 'uptown']",Columbus,"Generate domain name suggestions for the following business:
+
+Business: eco-friendly cleaning service in uptown
+
+Domain suggestions:
+- cleanpro.com
+- spo70.com
+- cleaningclean.net
+- ecoexpress.com
+- cleaningplus.com
+- cleaningfriendlyeco.com",
+12,veterinary clinic,"['localpet.co', 'petcareclinic.net', 'vetcare.com', 'clinic.co']",veterinary_clinic,simple,False,4,"['veterinary', 'clinic']",,"Generate domain name suggestions for the following business:
+
+Business: veterinary clinic
+
+Domain suggestions:
+- localpet.co
+- petcareclinic.net
+- vetcare.com
+- clinic.co",
+152,law firm,"['justicecounsel.com', 'lawfirmservice.com', 'lawfirmplus.net']",law_firm,simple,False,3,"['law', 'firm']",,"Generate domain name suggestions for the following business:
+
+Business: law firm
+
+Domain suggestions:
+- justicecounsel.com
+- lawfirmservice.com
+- lawfirmplus.net",
+130,brand strategy marketing agency in Chicago,"['chicagoagen.com', 'chicagocreative.org', 'marketingchicago.net', 'groupcrea.com', 'agency63.com', 'brand.com']",marketing_agency,medium,False,6,"['brand', 'strategy', 'marketing', 'agency', 'chicago']",Chicago,"Generate domain name suggestions for the following business:
+
+Business: brand strategy marketing agency in Chicago
+
+Domain suggestions:
+- chicagoagen.com
+- chicagocreative.org
+- marketingchicago.net
+- groupcrea.com
+- agency63.com
+- brand.com",
+80,art gallery,"['artzone.co', 'art89.com', 'artgallery.com', 'artsolutions.com', 'artgalleryplus.com']",art_gallery,simple,False,5,"['art', 'gallery']",,"Generate domain name suggestions for the following business:
+
+Business: art gallery
+
+Domain suggestions:
+- artzone.co
+- art89.com
+- artgallery.com
+- artsolutions.com
+- artgalleryplus.com",
+edge_32,"Established accounting firm offering premium small business services, expert tax preparation solutions, and specialized tax preparation consulting for businesses and individuals throughout Houston and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations","['established.com', 'establishedpro.com', 'bestestablished.com']",accounting_firm,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: Established accounting firm offering premium small business services, expert tax preparation solutions, and specialized tax preparation consulting for businesses and individuals throughout Houston and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations
+
+Domain suggestions:
+- established.com
+- establishedpro.com
+- bestestablished.com",excessive_descriptions
+48,financial consulting firm in waterfront,"['firmstrategyexperts.com', 'businessbest.com', 'solutionsprofessionalfinancial.net', 'financialsolutions.net', 'businesssanantonio.com', 'firm89.com']",consulting_firm,medium,False,6,"['financial', 'consulting', 'firm', 'waterfront']",San Antonio,"Generate domain name suggestions for the following business:
+
+Business: financial consulting firm in waterfront
+
+Domain suggestions:
+- firmstrategyexperts.com
+- businessbest.com
+- solutionsprofessionalfinancial.net
+- financialsolutions.net
+- businesssanantonio.com
+- firm89.com",
+edge_2,place,"['place.com', 'placepro.com', 'bestplace.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: place
+
+Domain suggestions:
+- place.com
+- placepro.com
+- bestplace.com",minimal_descriptions
+57,local accounting firm offering tax preparation services,"['accountingbooks.net', 'preparationaccounting.org', 'accountingtaxoffering.com', 'accountingfirmpro.com', 'offco.com']",accounting_firm,medium,False,5,"['local', 'accounting', 'firm', 'offering', 'tax', 'preparation', 'services']",Fort Worth,"Generate domain name suggestions for the following business:
+
+Business: local accounting firm offering tax preparation services
+
+Domain suggestions:
+- accountingbooks.net
+- preparationaccounting.org
+- accountingtaxoffering.com
+- accountingfirmpro.com
+- offco.com",
+78,foreign cars auto repair in Baltimore,"['groupserv.com', 'foreignbaltimorerepair.com', 'autobaltimorecar.net', 'baltimorefore.org', 'baltio.io']",auto_repair,medium,False,5,"['foreign', 'cars', 'auto', 'repair', 'baltimore']",Baltimore,"Generate domain name suggestions for the following business:
+
+Business: foreign cars auto repair in Baltimore
+
+Domain suggestions:
+- groupserv.com
+- foreignbaltimorerepair.com
+- autobaltimorecar.net
+- baltimorefore.org
+- baltio.io",
+4,academic bookstore in waterfront,"['knowledgequick.com', 'acad14.co', 'acadfy.com', 'literco.com', 'baltimoreknow.net', 'waterfrontliterature.com', 'readco.com']",bookstore,medium,False,7,"['academic', 'bookstore', 'waterfront']",Baltimore,"Generate domain name suggestions for the following business:
+
+Business: academic bookstore in waterfront
+
+Domain suggestions:
+- knowledgequick.com
+- acad14.co
+- acadfy.com
+- literco.com
+- baltimoreknow.net
+- waterfrontliterature.com
+- readco.com",
+121,"We are a expert cleaning service in San Antonio specializing in residential, with a focus on customer satisfaction and quality service","['cleanfocus.com', 'cleanizone.com', 'solutionsfocu.com', 'sp3c.com', 'satisfactionspotlesscustomer.com', 'expertantoniofocus.com']",cleaning_service,complex,False,6,"['expert', 'cleaning', 'service', 'san', 'antonio', 'specializing', 'residential', 'focus', 'customer', 'satisfaction', 'quality', 'service']",San Antonio,"Generate domain name suggestions for the following business:
+
+Business: We are a expert cleaning service in San Antonio specializing in residential, with a focus on customer satisfaction and quality service
+
+Domain suggestions:
+- cleanfocus.com
+- cleanizone.com
+- solutionsfocu.com
+- sp3c.com
+- satisfactionspotlesscustomer.com
+- expertantoniofocus.com",
+22,furniture retail store in Los Angeles,"['outletplace.co', 'angeleco.com', 'retailfurnituremarket.com', 'fashionlosangeles.net', 'retailstorepro.com', 'angeleslosangeles.net', 'retailstoreplus.org']",retail_store,medium,False,7,"['furniture', 'retail', 'store', 'los', 'angeles']",Los Angeles,"Generate domain name suggestions for the following business:
+
+Business: furniture retail store in Los Angeles
+
+Domain suggestions:
+- outletplace.co
+- angeleco.com
+- retailfurnituremarket.com
+- fashionlosangeles.net
+- retailstorepro.com
+- angeleslosangeles.net
+- retailstoreplus.org",
+119,local landscaping offering commercial services,"['lands.net', 'losangelesgarden.com', 'losangelesland.net', 'greenplace.com', 'bestgarden.com', 'landscapingoffering.org']",landscaping,medium,False,6,"['local', 'landscaping', 'offering', 'commercial', 'services']",Los Angeles,"Generate domain name suggestions for the following business:
+
+Business: local landscaping offering commercial services
+
+Domain suggestions:
+- lands.net
+- losangelesgarden.com
+- losangelesland.net
+- greenplace.com
+- bestgarden.com
+- landscapingoffering.org",
+60,"professional mobile app tech startup located in waterfront, New York, serving the New York area for over 17 years","['digitalsolutions.net', 'quickservin.com', 'newyorktech.net']",tech_startup,complex,False,3,"['professional', 'mobile', 'app', 'tech', 'startup', 'waterfront', 'new', 'york', 'serving', 'new', 'york']",New York,"Generate domain name suggestions for the following business:
+
+Business: professional mobile app tech startup located in waterfront, New York, serving the New York area for over 17 years
+
+Domain suggestions:
+- digitalsolutions.net
+- quickservin.com
+- newyorktech.net",
+99,photography studio,"['lensphoto.net', 'photographystudiolab.com', 'workspict.com', 'l3ns.com', 'visualspot.net', 'pictureworks.co']",photography_studio,simple,False,6,"['photography', 'studio']",,"Generate domain name suggestions for the following business:
+
+Business: photography studio
+
+Domain suggestions:
+- lensphoto.net
+- photographystudiolab.com
+- workspict.com
+- l3ns.com
+- visualspot.net
+- pictureworks.co",
+7,local healthcare clinic offering specialist services,"['wellnessphiladelphia.org', 'healthcareclinicexpert.com', 'healthcareclinicplus.com']",healthcare_clinic,medium,False,3,"['local', 'healthcare', 'clinic', 'offering', 'specialist', 'services']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: local healthcare clinic offering specialist services
+
+Domain suggestions:
+- wellnessphiladelphia.org
+- healthcareclinicexpert.com
+- healthcareclinicplus.com",
+edge_31,"A comprehensive full-service professional bookstore specializing in specialty, used books, and academic located in the heart of Columbus with over 24 years of combined experience serving the local community with award-winning customer service and innovative solutions for all your bookstore needs and requirements, committed to excellence and customer satisfaction","['comprehensive.com', 'comprehensivepro.com', 'bestcomprehensive.com']",bookstore,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: A comprehensive full-service professional bookstore specializing in specialty, used books, and academic located in the heart of Columbus with over 24 years of combined experience serving the local community with award-winning customer service and innovative solutions for all your bookstore needs and requirements, committed to excellence and customer satisfaction
+
+Domain suggestions:
+- comprehensive.com
+- comprehensivepro.com
+- bestcomprehensive.com",excessive_descriptions
+155,marketing agency,"['agencycreative.com', 'marketingagencylab.com', 'digita64.com', 'marketingagencyspot.com', 'zonecreative.com']",marketing_agency,simple,False,5,"['marketing', 'agency']",,"Generate domain name suggestions for the following business:
+
+Business: marketing agency
+
+Domain suggestions:
+- agencycreative.com
+- marketingagencylab.com
+- digita64.com
+- marketingagencyspot.com
+- zonecreative.com",
+edge_18,company,"['company.com', 'companypro.com']",unknown,edge_case,True,2,,,"Generate domain name suggestions for the following business:
+
+Business: company
+
+Domain suggestions:
+- company.com
+- companypro.com",ambiguous_business
+edge_38,"Established law firm offering premium personal injury services, expert criminal defense solutions, and specialized personal injury consulting for businesses and individuals throughout San Diego and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations","['established.com', 'establishedpro.com', 'bestestablished.com', 'law.com', 'lawpro.com']",law_firm,edge_case,True,5,,,"Generate domain name suggestions for the following business:
+
+Business: Established law firm offering premium personal injury services, expert criminal defense solutions, and specialized personal injury consulting for businesses and individuals throughout San Diego and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations
+
+Domain suggestions:
+- established.com
+- establishedpro.com
+- bestestablished.com
+- law.com
+- lawpro.com",excessive_descriptions
+25,"reliable mobile veterinary clinic located in midtown, Washington DC, known for our professional and friendly approach","['approachwashingtondc.com', 'animalwashingtondc.com', 'carefy.com', 'veterinaryclinicpro.com', 'topreliab.com']",veterinary_clinic,complex,False,5,"['reliable', 'mobile', 'veterinary', 'clinic', 'midtown', 'washington', 'known', 'professional', 'friendly', 'approach']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: reliable mobile veterinary clinic located in midtown, Washington DC, known for our professional and friendly approach
+
+Domain suggestions:
+- approachwashingtondc.com
+- animalwashingtondc.com
+- carefy.com
+- veterinaryclinicpro.com
+- topreliab.com",
+89,local law firm offering criminal defense services,"['advoca16.com', 'lawfirmcounsel.com', 'mylegal.com', 'firmaustin.com', 'rights.com', 'lawaustin.com']",law_firm,medium,False,6,"['local', 'law', 'firm', 'offering', 'criminal', 'defense', 'services']",Austin,"Generate domain name suggestions for the following business:
+
+Business: local law firm offering criminal defense services
+
+Domain suggestions:
+- advoca16.com
+- lawfirmcounsel.com
+- mylegal.com
+- firmaustin.com
+- rights.com
+- lawaustin.com",
+edge_8,Blockchain-enabled tech startup with smart contracts and DeFi protocols,"['blockchain.com', 'blockchainpro.com']",tech_startup,edge_case,True,2,,,"Generate domain name suggestions for the following business:
+
+Business: Blockchain-enabled tech startup with smart contracts and DeFi protocols
+
+Domain suggestions:
+- blockchain.com
+- blockchainpro.com",technical_jargon
+79,local coffee shop offering specialty services,"['roastshop.com', 'zoneespr.com', 'thebrew.co', 'beanroastmorning.net']",coffee_shop,medium,False,4,"['local', 'coffee', 'shop', 'offering', 'specialty', 'services']",Nashville,"Generate domain name suggestions for the following business:
+
+Business: local coffee shop offering specialty services
+
+Domain suggestions:
+- roastshop.com
+- zoneespr.com
+- thebrew.co
+- beanroastmorning.net",
+149,"trusted wedding photography studio located in uptown, Phoenix, dedicated to meeting all your photography studio needs","['weddinglab.com', 'eliteded.com', 'phoenixlens.com', 'visualstudio.net']",photography_studio,complex,False,4,"['trusted', 'wedding', 'photography', 'studio', 'uptown', 'phoenix', 'dedicated', 'meeting', 'photography', 'studio', 'needs']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: trusted wedding photography studio located in uptown, Phoenix, dedicated to meeting all your photography studio needs
+
+Domain suggestions:
+- weddinglab.com
+- eliteded.com
+- phoenixlens.com
+- visualstudio.net",
+28,coffee shop specializing in espresso bar,"['sanjosebrew.net', 'coffeeshoppro.com', 'sanjosebrew.com', 'shopworks.com', 'shopcoffeeshop.net']",coffee_shop,medium,False,5,"['coffee', 'shop', 'specializing', 'espresso', 'bar']",San Jose,"Generate domain name suggestions for the following business:
+
+Business: coffee shop specializing in espresso bar
+
+Domain suggestions:
+- sanjosebrew.net
+- coffeeshoppro.com
+- sanjosebrew.com
+- shopworks.com
+- shopcoffeeshop.net",
+23,contemporary art gallery in San Francisco,"['bestfrancisco.com', 'artgalleryart.com', 'sanfranciscoexhibit.com', 'gallco.com', 'procont.net']",art_gallery,medium,False,5,"['contemporary', 'art', 'gallery', 'san', 'francisco']",San Francisco,"Generate domain name suggestions for the following business:
+
+Business: contemporary art gallery in San Francisco
+
+Domain suggestions:
+- bestfrancisco.com
+- artgalleryart.com
+- sanfranciscoexhibit.com
+- gallco.com
+- procont.net",
+143,art gallery specializing in sculpture,"['exhibitspecializinggallery.com', 'artexhibitsculpture.com', 'gallerycreativespecializing.com']",art_gallery,medium,False,3,"['art', 'gallery', 'specializing', 'sculpture']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: art gallery specializing in sculpture
+
+Domain suggestions:
+- exhibitspecializinggallery.com
+- artexhibitsculpture.com
+- gallerycreativespecializing.com",
+70,healthcare clinic,"['247care.com', 'wellnessquick.com', 'carequick.com', 'clinichealing.com']",healthcare_clinic,simple,False,4,"['healthcare', 'clinic']",,"Generate domain name suggestions for the following business:
+
+Business: healthcare clinic
+
+Domain suggestions:
+- 247care.com
+- wellnessquick.com
+- carequick.com
+- clinichealing.com",
+133,"full-service commercial cleaning service located in downtown, Philadelphia, dedicated to meeting all your cleaning service needs","['meetingfreshphiladelphia.net', 'profull.com', 'freshphiladelphiadedicated.com', 'easyphila.co', 'needstop.com']",cleaning_service,complex,False,5,"['full', 'service', 'commercial', 'cleaning', 'service', 'downtown', 'philadelphia', 'dedicated', 'meeting', 'cleaning', 'service', 'needs']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: full-service commercial cleaning service located in downtown, Philadelphia, dedicated to meeting all your cleaning service needs
+
+Domain suggestions:
+- meetingfreshphiladelphia.net
+- profull.com
+- freshphiladelphiadedicated.com
+- easyphila.co
+- needstop.com",
+87,"specialized social media marketing agency located in downtown, Houston, serving the Houston area for over 12 years","['socialservingdowntown.com', 'bestmedia.net', 'labhous.com', 'socialfy.com']",marketing_agency,complex,False,4,"['specialized', 'social', 'media', 'marketing', 'agency', 'downtown', 'houston', 'serving', 'houston']",Houston,"Generate domain name suggestions for the following business:
+
+Business: specialized social media marketing agency located in downtown, Houston, serving the Houston area for over 12 years
+
+Domain suggestions:
+- socialservingdowntown.com
+- bestmedia.net
+- labhous.com
+- socialfy.com",
+edge_35,startup,"['startup.com', 'startuppro.com', 'beststartup.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: startup
+
+Domain suggestions:
+- startup.com
+- startuppro.com
+- beststartup.com",ambiguous_business
+67,affordable catering offering wedding services in the hillside area of San Antonio,"['eventoffering.com', 'cateringworks.com', 'hillsidepro.co', 'cateringhub.com', 'sanantoniohillside.com', 'placeoffering.co']",catering,complex,False,6,"['affordable', 'catering', 'offering', 'wedding', 'services', 'hillside', 'san', 'antonio']",San Antonio,"Generate domain name suggestions for the following business:
+
+Business: affordable catering offering wedding services in the hillside area of San Antonio
+
+Domain suggestions:
+- eventoffering.com
+- cateringworks.com
+- hillsidepro.co
+- cateringhub.com
+- sanantoniohillside.com
+- placeoffering.co",
+64,catering specializing in casual,"['washingtondcpart.net', 'eventspecializing.com', 'bestfood.net', 'cateringcatering.com']",catering,medium,False,4,"['catering', 'specializing', 'casual']",Washington DC,"Generate domain name suggestions for the following business:
+
+Business: catering specializing in casual
+
+Domain suggestions:
+- washingtondcpart.net
+- eventspecializing.com
+- bestfood.net
+- cateringcatering.com",
+51,specialty coffee shop in downtown,"['coffeeshoppro.com', 'downtownroastlatte.com', 'proroast.com', 'beanzone.com', 'expresscoff.com']",coffee_shop,medium,False,5,"['specialty', 'coffee', 'shop', 'downtown']",Chicago,"Generate domain name suggestions for the following business:
+
+Business: specialty coffee shop in downtown
+
+Domain suggestions:
+- coffeeshoppro.com
+- downtownroastlatte.com
+- proroast.com
+- beanzone.com
+- expresscoff.com",
+edge_36,Il Ristorante,"['ristorante.com', 'ristorantepro.com', 'bestristorante.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: Il Ristorante
+
+Domain suggestions:
+- ristorante.com
+- ristorantepro.com
+- bestristorante.com",non_english_elements
+24,law firm,"['counsellaw.com', 'legallawcounsel.com', 'rightsattorneylegal.com', 'advoc22.co', 'cou.co', 'attorneylaw.com']",law_firm,simple,False,6,"['law', 'firm']",,"Generate domain name suggestions for the following business:
+
+Business: law firm
+
+Domain suggestions:
+- counsellaw.com
+- legallawcounsel.com
+- rightsattorneylegal.com
+- advoc22.co
+- cou.co
+- attorneylaw.com",
+59,accounting firm specializing in tax preparation,"['accountingfinancial.com', 'localfirm.co', 'firmelite.com', 'accountingfirmlab.com', 'financialspecializing.com', 'accountinghub.com']",accounting_firm,medium,False,6,"['accounting', 'firm', 'specializing', 'tax', 'preparation']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: accounting firm specializing in tax preparation
+
+Domain suggestions:
+- accountingfinancial.com
+- localfirm.co
+- firmelite.com
+- accountingfirmlab.com
+- financialspecializing.com
+- accountinghub.com",
+90,mobile veterinary clinic in Baltimore,"['elitebaltimore.net', 'vetveterinaryclinic.com', 'veterinaryclinicservice.com', 'pet.com']",veterinary_clinic,medium,False,4,"['mobile', 'veterinary', 'clinic', 'baltimore']",Baltimore,"Generate domain name suggestions for the following business:
+
+Business: mobile veterinary clinic in Baltimore
+
+Domain suggestions:
+- elitebaltimore.net
+- vetveterinaryclinic.com
+- veterinaryclinicservice.com
+- pet.com",
+139,local catering offering corporate services,"['quickparty.com', 'ser3.com', 'partyco.io', 'proserv.com', 'bostoneven.com', 'pluscorp.com', 'localserv.co']",catering,medium,False,7,"['local', 'catering', 'offering', 'corporate', 'services']",Boston,"Generate domain name suggestions for the following business:
+
+Business: local catering offering corporate services
+
+Domain suggestions:
+- quickparty.com
+- ser3.com
+- partyco.io
+- proserv.com
+- bostoneven.com
+- pluscorp.com
+- localserv.co",
+69,cleaning service specializing in commercial,"['cleanio.co', 'speci43.com', 'cleaningboston.net']",cleaning_service,medium,False,3,"['cleaning', 'service', 'specializing', 'commercial']",Boston,"Generate domain name suggestions for the following business:
+
+Business: cleaning service specializing in commercial
+
+Domain suggestions:
+- cleanio.co
+- speci43.com
+- cleaningboston.net",
+8,criminal defense law firm in hillside,"['deffy.com', 'defenseattorney.com', 'elitecouns.com', 'hillsidedefensefirm.com']",law_firm,medium,False,4,"['criminal', 'defense', 'law', 'firm', 'hillside']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: criminal defense law firm in hillside
+
+Domain suggestions:
+- deffy.com
+- defenseattorney.com
+- elitecouns.com
+- hillsidedefensefirm.com",
+101,law firm,"['elitecounsel.co', 'rightsdefenselegal.net', 'easyjustice.com', 'law247.com', 'defensebest.co', 'lawfirmhub.com', 'advocateattorneydefense.com']",law_firm,simple,False,7,"['law', 'firm']",,"Generate domain name suggestions for the following business:
+
+Business: law firm
+
+Domain suggestions:
+- elitecounsel.co
+- rightsdefenselegal.net
+- easyjustice.com
+- law247.com
+- defensebest.co
+- lawfirmhub.com
+- advocateattorneydefense.com",
+edge_10,"Established tech startup offering premium cloud computing services, expert edtech solutions, and specialized cloud computing consulting for businesses and individuals throughout Seattle and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations","['established.com', 'establishedpro.com', 'bestestablished.com', 'tech.com']",tech_startup,edge_case,True,4,,,"Generate domain name suggestions for the following business:
+
+Business: Established tech startup offering premium cloud computing services, expert edtech solutions, and specialized cloud computing consulting for businesses and individuals throughout Seattle and surrounding areas, with a dedicated team of professionals committed to delivering exceptional results and exceeding customer expectations
+
+Domain suggestions:
+- established.com
+- establishedpro.com
+- bestestablished.com
+- tech.com",excessive_descriptions
+102,full-service healthcare clinic offering dental services in the hillside area of Boston,"['medicalhillsideclinic.net', 'care.com', 'bostonclinic.com', 'familyhealthcareclinic.com']",healthcare_clinic,complex,False,4,"['full', 'service', 'healthcare', 'clinic', 'offering', 'dental', 'services', 'hillside', 'boston']",Boston,"Generate domain name suggestions for the following business:
+
+Business: full-service healthcare clinic offering dental services in the hillside area of Boston
+
+Domain suggestions:
+- medicalhillsideclinic.net
+- care.com
+- bostonclinic.com
+- familyhealthcareclinic.com",
+9,"We are a friendly cleaning service in Houston specializing in deep cleaning, committed to providing excellent deep cleaning services","['spotlessfreshspecializing.com', 'elitefriend.com', 'provify.com', 'providingservice.com']",cleaning_service,complex,False,4,"['friendly', 'cleaning', 'service', 'houston', 'specializing', 'deep', 'cleaning', 'committed', 'providing', 'excellent', 'deep', 'cleaning', 'services']",Houston,"Generate domain name suggestions for the following business:
+
+Business: We are a friendly cleaning service in Houston specializing in deep cleaning, committed to providing excellent deep cleaning services
+
+Domain suggestions:
+- spotlessfreshspecializing.com
+- elitefriend.com
+- provify.com
+- providingservice.com",
+edge_25,catering!!!,"['catering.com', 'cateringpro.com']",catering,edge_case,True,2,,,"Generate domain name suggestions for the following business:
+
+Business: catering!!!
+
+Domain suggestions:
+- catering.com
+- cateringpro.com",unusual_characters
+145,tax preparation accounting firm in historic district,"['firmtaxpreparation.com', 'smarthistoric.com', 'preparationaccountingfirm.net', 'historicbookstax.com', 'accountingfirmdistrict.com']",accounting_firm,medium,False,5,"['tax', 'preparation', 'accounting', 'firm', 'historic', 'district']",Charlotte,"Generate domain name suggestions for the following business:
+
+Business: tax preparation accounting firm in historic district
+
+Domain suggestions:
+- firmtaxpreparation.com
+- smarthistoric.com
+- preparationaccountingfirm.net
+- historicbookstax.com
+- accountingfirmdistrict.com",
+110,reliable landscaping offering commercial services in the old town area of Seattle,"['landscapinggreen.com', 'outdoorlandscaping.com', 'offeringseattle.com']",landscaping,complex,False,3,"['reliable', 'landscaping', 'offering', 'commercial', 'services', 'old', 'town', 'seattle']",Seattle,"Generate domain name suggestions for the following business:
+
+Business: reliable landscaping offering commercial services in the old town area of Seattle
+
+Domain suggestions:
+- landscapinggreen.com
+- outdoorlandscaping.com
+- offeringseattle.com",
+150,"We are a family-owned healthcare clinic in Phoenix specializing in wellness, serving the Phoenix area for over 25 years","['phoenixclinic.net', 'healthphoenixhealthcare.com', 'phoenixfami.com', 'quickclinic.com', 'phoeplus.com', 'familyhealthcareclinic.com', 'localfamily.com']",healthcare_clinic,complex,False,7,"['family', 'owned', 'healthcare', 'clinic', 'phoenix', 'specializing', 'wellness', 'serving', 'phoenix']",Phoenix,"Generate domain name suggestions for the following business:
+
+Business: We are a family-owned healthcare clinic in Phoenix specializing in wellness, serving the Phoenix area for over 25 years
+
+Domain suggestions:
+- phoenixclinic.net
+- healthphoenixhealthcare.com
+- phoenixfami.com
+- quickclinic.com
+- phoeplus.com
+- familyhealthcareclinic.com
+- localfamily.com",
+edge_4,shop,"['shop.com', 'shoppro.com', 'bestshop.com']",retail_store,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: shop
+
+Domain suggestions:
+- shop.com
+- shoppro.com
+- bestshop.com",minimal_descriptions
+92,retail store,"['market73.com', 'theoutlet.com', 'outletmarketretail.com']",retail_store,simple,False,3,"['retail', 'store']",,"Generate domain name suggestions for the following business:
+
+Business: retail store
+
+Domain suggestions:
+- market73.com
+- theoutlet.com
+- outletmarketretail.com",
+76,catering,"['event.net', 'groupcate.com', 'foodeventcatering.com', 'catering247.net', 'profood.com', 'bestpart.co']",catering,simple,False,6,['catering'],,"Generate domain name suggestions for the following business:
+
+Business: catering
+
+Domain suggestions:
+- event.net
+- groupcate.com
+- foodeventcatering.com
+- catering247.net
+- profood.com
+- bestpart.co",
+2,accounting firm specializing in bookkeeping,"['thespec.com', 'baltimorebookkeeping.com', 'spec.com']",accounting_firm,medium,False,3,"['accounting', 'firm', 'specializing', 'bookkeeping']",Baltimore,"Generate domain name suggestions for the following business:
+
+Business: accounting firm specializing in bookkeeping
+
+Domain suggestions:
+- thespec.com
+- baltimorebookkeeping.com
+- spec.com",
+50,local landscaping offering residential services,"['myserv.com', 'greenexpress.co', 'landscapingzone.net']",landscaping,medium,False,3,"['local', 'landscaping', 'offering', 'residential', 'services']",New York,"Generate domain name suggestions for the following business:
+
+Business: local landscaping offering residential services
+
+Domain suggestions:
+- myserv.com
+- greenexpress.co
+- landscapingzone.net",
+52,personal injury law firm in Fort Worth,"['firmfortlegal.com', 'fortlawfirm.com', 'placecoun.com', 'rights.com', 'perso98.net']",law_firm,medium,False,5,"['personal', 'injury', 'law', 'firm', 'fort', 'worth']",Fort Worth,"Generate domain name suggestions for the following business:
+
+Business: personal injury law firm in Fort Worth
+
+Domain suggestions:
+- firmfortlegal.com
+- fortlawfirm.com
+- placecoun.com
+- rights.com
+- perso98.net",
+153,local accounting firm offering corporate services,"['financialbooks.com', 'corporatenewyork.com', '247book.com']",accounting_firm,medium,False,3,"['local', 'accounting', 'firm', 'offering', 'corporate', 'services']",New York,"Generate domain name suggestions for the following business:
+
+Business: local accounting firm offering corporate services
+
+Domain suggestions:
+- financialbooks.com
+- corporatenewyork.com
+- 247book.com",
+55,marketing agency specializing in brand strategy,"['spotagency.co', 'marketingagencycreative.com', 'creativedigital.net', 'bestagency.io', 'marketingagencydigital.com', 'marketingagencypro.com', 'specializingbrandstrategy.net']",marketing_agency,medium,False,7,"['marketing', 'agency', 'specializing', 'brand', 'strategy']",Seattle,"Generate domain name suggestions for the following business:
+
+Business: marketing agency specializing in brand strategy
+
+Domain suggestions:
+- spotagency.co
+- marketingagencycreative.com
+- creativedigital.net
+- bestagency.io
+- marketingagencydigital.com
+- marketingagencypro.com
+- specializingbrandstrategy.net",
+edge_22,company,"['company.com', 'companypro.com', 'bestcompany.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: company
+
+Domain suggestions:
+- company.com
+- companypro.com
+- bestcompany.com",ambiguous_business
+109,marketing agency specializing in brand strategy,"['marketingagencyplace.com', 'quickmarketing.com', 'creativeagency.com', 'localbran.com']",marketing_agency,medium,False,4,"['marketing', 'agency', 'specializing', 'brand', 'strategy']",Austin,"Generate domain name suggestions for the following business:
+
+Business: marketing agency specializing in brand strategy
+
+Domain suggestions:
+- marketingagencyplace.com
+- quickmarketing.com
+- creativeagency.com
+- localbran.com",
+34,cosmetic dental practice in financial district,"['austindental.com', 'smartsmile.com', 'dentalpracticeplace.net', 'teethlab.co']",dental_practice,medium,False,4,"['cosmetic', 'dental', 'practice', 'financial', 'district']",Austin,"Generate domain name suggestions for the following business:
+
+Business: cosmetic dental practice in financial district
+
+Domain suggestions:
+- austindental.com
+- smartsmile.com
+- dentalpracticeplace.net
+- teethlab.co",
+112,marketing agency specializing in brand strategy,"['marketingagencypro.com', 'topstrat.com', 'digitalphiladelphia.net', 'strategyphiladelphia.com']",marketing_agency,medium,False,4,"['marketing', 'agency', 'specializing', 'brand', 'strategy']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: marketing agency specializing in brand strategy
+
+Domain suggestions:
+- marketingagencypro.com
+- topstrat.com
+- digitalphiladelphia.net
+- strategyphiladelphia.com",
+66,retail store specializing in fashion,"['retailprime.com', 'localstor.com', 'retailstorepro.com', 'placespecializing.net', 'marketshopoutlet.com']",retail_store,medium,False,5,"['retail', 'store', 'specializing', 'fashion']",Philadelphia,"Generate domain name suggestions for the following business:
+
+Business: retail store specializing in fashion
+
+Domain suggestions:
+- retailprime.com
+- localstor.com
+- retailstorepro.com
+- placespecializing.net
+- marketshopoutlet.com",
+142,coffee shop,"['coffeeshoplatte.com', 'coffeeshoppro.com', 'beancafe.com', 'roastcafecoffee.com', 'coffeeshopplus.com']",coffee_shop,simple,False,5,"['coffee', 'shop']",,"Generate domain name suggestions for the following business:
+
+Business: coffee shop
+
+Domain suggestions:
+- coffeeshoplatte.com
+- coffeeshoppro.com
+- beancafe.com
+- roastcafecoffee.com
+- coffeeshopplus.com",
+123,"We are a quality landscaping in Chicago specializing in residential, committed to providing excellent residential services","['localqual.com', 'outdoorspecializingcommitted.com', 'landscapingservice.com']",landscaping,complex,False,3,"['quality', 'landscaping', 'chicago', 'specializing', 'residential', 'committed', 'providing', 'excellent', 'residential', 'services']",Chicago,"Generate domain name suggestions for the following business:
+
+Business: We are a quality landscaping in Chicago specializing in residential, committed to providing excellent residential services
+
+Domain suggestions:
+- localqual.com
+- outdoorspecializingcommitted.com
+- landscapingservice.com",
+42,local auto repair offering foreign cars services,"['servicerepair.net', 'foreign247.com', 'auto56.com']",auto_repair,medium,False,3,"['local', 'auto', 'repair', 'offering', 'foreign', 'cars', 'services']",Seattle,"Generate domain name suggestions for the following business:
+
+Business: local auto repair offering foreign cars services
+
+Domain suggestions:
+- servicerepair.net
+- foreign247.com
+- auto56.com",
+edge_33,organization,"['organization.com', 'organizationpro.com', 'bestorganization.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: organization
+
+Domain suggestions:
+- organization.com
+- organizationpro.com
+- bestorganization.com",ambiguous_business
+106,local auto repair offering collision services,"['local.co', 'localco.com', 'carcollisionrepair.com', 'auto28.com']",auto_repair,medium,False,4,"['local', 'auto', 'repair', 'offering', 'collision', 'services']",San Diego,"Generate domain name suggestions for the following business:
+
+Business: local auto repair offering collision services
+
+Domain suggestions:
+- local.co
+- localco.com
+- carcollisionrepair.com
+- auto28.com",
+128,commercial cleaning service in old town,"['towncommercialold.net', 'fresh58.com', 'ser.net', 'spo73.com', 'cleancommercialold.net', 'spotlessseattle.net']",cleaning_service,medium,False,6,"['commercial', 'cleaning', 'service', 'old', 'town']",Seattle,"Generate domain name suggestions for the following business:
+
+Business: commercial cleaning service in old town
+
+Domain suggestions:
+- towncommercialold.net
+- fresh58.com
+- ser.net
+- spo73.com
+- cleancommercialold.net
+- spotlessseattle.net",
+54,"quality family dentistry dental practice located in financial district, Jacksonville, serving the Jacksonville area for over 12 years","['practicedentalpractice.com', 'oralsolutions.com', 'jacksonvilledentalpractice.org']",dental_practice,complex,False,3,"['quality', 'family', 'dentistry', 'dental', 'practice', 'financial', 'district', 'jacksonville', 'serving', 'jacksonville']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: quality family dentistry dental practice located in financial district, Jacksonville, serving the Jacksonville area for over 12 years
+
+Domain suggestions:
+- practicedentalpractice.com
+- oralsolutions.com
+- jacksonvilledentalpractice.org",
+148,foreign cars auto repair in Fort Worth,"['cario.com', 'carsfort.com', 'autorepairplus.com', '247cars.com', 'autofy.com', 'servicefortworth.com', 'fortservicecars.com']",auto_repair,medium,False,7,"['foreign', 'cars', 'auto', 'repair', 'fort', 'worth']",Fort Worth,"Generate domain name suggestions for the following business:
+
+Business: foreign cars auto repair in Fort Worth
+
+Domain suggestions:
+- cario.com
+- carsfort.com
+- autorepairplus.com
+- 247cars.com
+- autofy.com
+- servicefortworth.com
+- fortservicecars.com",
+edge_37,dental practice 24/7,"['dental.com', 'dentalpro.com', 'bestdental.com', 'practice.com']",dental_practice,edge_case,True,4,,,"Generate domain name suggestions for the following business:
+
+Business: dental practice 24/7
+
+Domain suggestions:
+- dental.com
+- dentalpro.com
+- bestdental.com
+- practice.com",unusual_characters
+32,healthcare clinic,"['doctormy.com', 'carely.co', 'wellnesshealthcareclinic.com', 'doctorhealing.com', 'heali85.net']",healthcare_clinic,simple,False,5,"['healthcare', 'clinic']",,"Generate domain name suggestions for the following business:
+
+Business: healthcare clinic
+
+Domain suggestions:
+- doctormy.com
+- carely.co
+- wellnesshealthcareclinic.com
+- doctorhealing.com
+- heali85.net",
+137,pilates fitness center in Dallas,"['fitdallas.com', 'dallasdallas.com', 'pilatesfitnesscenter.com', 'thepower.com']",fitness_center,medium,False,4,"['pilates', 'fitness', 'center', 'dallas']",Dallas,"Generate domain name suggestions for the following business:
+
+Business: pilates fitness center in Dallas
+
+Domain suggestions:
+- fitdallas.com
+- dallasdallas.com
+- pilatesfitnesscenter.com
+- thepower.com",
+edge_5,tech startup specializing in unicorn potential,"['tech.com', 'techpro.com']",tech_startup,edge_case,True,2,,,"Generate domain name suggestions for the following business:
+
+Business: tech startup specializing in unicorn potential
+
+Domain suggestions:
+- tech.com
+- techpro.com",industry_jargon
+edge_15,餐厅,"['unknown.com', 'unknownpro.com', 'bestunknown.com']",unknown,edge_case,True,3,,,"Generate domain name suggestions for the following business:
+
+Business: 餐厅
+
+Domain suggestions:
+- unknown.com
+- unknownpro.com
+- bestunknown.com",non_english_elements
+46,"We are a affordable consulting firm in Denver specializing in legal, known for our professional and friendly approach","['denverlab.com', '247approach.com', 'zoneconsulting.com', 'c0nsu.com']",consulting_firm,complex,False,4,"['affordable', 'consulting', 'firm', 'denver', 'specializing', 'legal', 'known', 'professional', 'friendly', 'approach']",Denver,"Generate domain name suggestions for the following business:
+
+Business: We are a affordable consulting firm in Denver specializing in legal, known for our professional and friendly approach
+
+Domain suggestions:
+- denverlab.com
+- 247approach.com
+- zoneconsulting.com
+- c0nsu.com",
+30,yoga fitness center in historic district,"['jacksonvilleacti.org', 'fitnesscenteryoga.com', 'myfitn.co']",fitness_center,medium,False,3,"['yoga', 'fitness', 'center', 'historic', 'district']",Jacksonville,"Generate domain name suggestions for the following business:
+
+Business: yoga fitness center in historic district
+
+Domain suggestions:
+- jacksonvilleacti.org
+- fitnesscenteryoga.com
+- myfitn.co",
+39,expert tech startup offering fintech services in the uptown area of Los Angeles,"['lostop.net', 'techstartupplace.com', '247fint.com', 'offeringcloudservices.net']",tech_startup,complex,False,4,"['expert', 'tech', 'startup', 'offering', 'fintech', 'services', 'uptown', 'los', 'angeles']",Los Angeles,"Generate domain name suggestions for the following business:
+
+Business: expert tech startup offering fintech services in the uptown area of Los Angeles
+
+Domain suggestions:
+- lostop.net
+- techstartupplace.com
+- 247fint.com
+- offeringcloudservices.net",
+140,"We are a family-owned art gallery in Boston specializing in photography, with a focus on customer satisfaction and quality service","['custolab.com', 'cospecializing.net', 'easyart.com', 'servicefocus.net', 'spotcustomer.com', 'galleryfamily.com']",art_gallery,complex,False,6,"['family', 'owned', 'art', 'gallery', 'boston', 'specializing', 'photography', 'focus', 'customer', 'satisfaction', 'quality', 'service']",Boston,"Generate domain name suggestions for the following business:
+
+Business: We are a family-owned art gallery in Boston specializing in photography, with a focus on customer satisfaction and quality service
+
+Domain suggestions:
+- custolab.com
+- cospecializing.net
+- easyart.com
+- servicefocus.net
+- spotcustomer.com
+- galleryfamily.com",
